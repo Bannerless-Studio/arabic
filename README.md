@@ -86,6 +86,10 @@ The passages and questions were machine-written by Claude and checked by
 the builder's automated QA plus an author self-check. They have not had an
 external QA round or a native-speaker review.
 
+A passage's Today spaced re-read (after 7 days) becomes a listening pass
+when audio is available for every sentence: the text stays hidden and about
+half the questions are audio-only.
+
 ## Script and display
 
 - Arabic is right to left. `pack/pack.json` sets `rtl: true`,
