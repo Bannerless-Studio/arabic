@@ -101,8 +101,15 @@ external QA round or a native-speaker review.
 - **Romanisation** (`pron`) is Wiktionary's DIN 31635-style reading. Where
   Wiktionary has none, `ar.py` romanises a vocalised headword (Wiktionary's,
   else CAMeL's diacritisation) to the same scheme.
-- Typing drills are off (`typing: null`). Recall and cloze drills use
-  multiple choice.
+- Typing drills are on (`typing: {caseSensitive: false, accents: lenient,
+  strictFromLevel: null}`). "Type the word" drills the written form.
+  Lenient accents fold harakat, tatweel and ZWNJ/ZWJ on both sides, so a
+  typed answer without diacritics still matches a vocalised pack word.
+  `strictFromLevel` is `null`: harakat are never written in ordinary
+  Arabic text at any level, so strict is never appropriate. The
+  search-only Arabic spelling folds (hamza-carrier drop, ة/ه interchange,
+  ى/ی/ي, optional leading ال — see PACK_SCHEMA.md) do not extend to typed
+  answers; see TODO.md.
 
 ## Sources and licences
 

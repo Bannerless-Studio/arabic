@@ -147,7 +147,11 @@
     "w1811",
     "w1931"
   ],
-  "typing": null,
+  "typing": {
+    "caseSensitive": false,
+    "accents": "lenient",
+    "strictFromLevel": null
+  },
   "showPron": true,
   "hasLessons": false,
   "spaced": true,
