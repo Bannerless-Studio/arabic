@@ -12,7 +12,7 @@ word-reading items. It can be skipped with "I can read it" and reopened from
 Progress.
 
 This repo holds the Arabic data pack and the data files its build reads.
-[`vocab-engine`](https://github.com/ishmum123/vocab-engine) is a git
+[`vocab-engine`](https://github.com/Bannerless-Studio/vocab-engine) is a git
 submodule at `engine/`. The engine holds the shared UI, the drill logic and
 the shared pack builder, `engine/tools/packbuilder`. All Arabic rules live in
 `engine/tools/packbuilder/langs/ar.py`.
