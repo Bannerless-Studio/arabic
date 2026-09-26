@@ -76,16 +76,17 @@ fixes, a political/religious drop pattern, and a romaniser for the missing
   times (not another headword's form: خطاء, عملة). 259 nouns carry one.
 - **Audio:** none. Tatoeba has no permissively licensed Arabic
   recordings, so speech uses the browser's ar-SA voice.
-- **Typed answers don't get the search-only spelling folds (2026-09-26,
-  typing turned on).** PACK_SCHEMA.md's Arabic-script folds — hamza/madda
-  carrier drop (أ/إ/ؤ/ئ vs bare ا), ة/ه/ۃ/ۀ interchange, ى vs ی/ي, an
-  optional leading ال — apply to search only; typed-answer checking keeps
-  them distinct. A learner who reasonably drops the hamza when typing
-  (a very common simplification, even in native writing) is marked
-  wrong. This is an engine-level policy choice (`typing.accents`
-  currently folds only harakat/tatweel/ZWNJ/ZWJ), not something to hack
-  around per-language; flagging for the engine owner to decide whether
-  `typing.accents` should someday extend to these.
+- **Resolved (engine 122d88a, 2026-09-26): typed answers now fold hamza
+  carriers and ة.** `typing.accents: lenient` drops hamza/madda on a
+  carrier (أ/إ/آ → ا, ؤ → و, ئ → ی, and the extended hamza carriers), and
+  folds ة → ه and ى → ی, so the common simplifications above are now
+  accepted when typed. Every fold is guarded against collision with
+  another pack word: a folded answer is rejected when it spells another
+  entry's `w`/`alt` exactly (or its harakat/tatweel-stripped form). This
+  pack has 25 such colliding pairs (PACK_SCHEMA.md's typing table),
+  e.g. typing ما for ماء (w0009/w0206) or بدأ for بدا (w0112/w0128) is
+  still wrong, both ways. The optional leading ال is still not folded for
+  typing (كتاب ≠ الكتاب), matching search.
 
 ## Passages
 

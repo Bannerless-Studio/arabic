@@ -106,10 +106,12 @@ external QA round or a native-speaker review.
   Lenient accents fold harakat, tatweel and ZWNJ/ZWJ on both sides, so a
   typed answer without diacritics still matches a vocalised pack word.
   `strictFromLevel` is `null`: harakat are never written in ordinary
-  Arabic text at any level, so strict is never appropriate. The
-  search-only Arabic spelling folds (hamza-carrier drop, ة/ه interchange,
-  ى/ی/ي, optional leading ال — see PACK_SCHEMA.md) do not extend to typed
-  answers; see TODO.md.
+  Arabic text at any level, so strict is never appropriate. As of engine
+  122d88a, typed answers also fold hamza carriers and ة/ى the same way
+  search does; each fold is guarded so a folded match is rejected when it
+  spells another pack word exactly (25 colliding pairs in this pack; see
+  PACK_SCHEMA.md and TODO.md). The optional leading ال is still not
+  folded for typing.
 
 ## Sources and licences
 
