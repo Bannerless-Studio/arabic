@@ -1,0 +1,7 @@
+# Shared builder deps (spacy, wordfreq, simplemma), pinned in vocab-engine:
+-r ../engine/tools/packbuilder/requirements.txt
+# CAMeL Tools (MIT) tags Arabic at build time. Pulls in torch + transformers.
+# Its data packages install into .cache/camel_tools (build time only; nothing ships):
+#   CAMELTOOLS_DATA=.cache/camel_tools camel_data -i morphology-db-msa-r13 \
+#     disambig-mle-calima-msa-r13 disambig-bert-unfactored-msa dialectid-model6
+camel-tools==1.6.0

@@ -1,0 +1,23 @@
+# A1 core list: everyday words forced into A1 (the closed sets - weekdays,
+# Gregorian months, seasons, numbers, colours, greetings, pronouns, question
+# words, core prepositions/conjunctions/particles - are in
+# engine/tools/packbuilder/langs/ar.py). Written as the builder's lemma keys:
+# unvocalised, hamza and ta marbuta kept (بيت, مدرسة, سأل), singular nouns,
+# verbs as the 3sg masculine perfect.
+# Hand-picked everyday vocabulary; not derived from any exam list.
+
+[NOUN]
+بيت منزل مدرسة كتاب قلم ماء خبز طعام شاي قهوة حليب فاكهة تفاح لحم رز جبن طاولة كرسي باب نافذة غرفة
+مطبخ سيارة حافلة قطار طائرة شارع مدينة بلد مال صديق أب أم أخ أخت ابن بنت ولد طفل رجل امرأة
+أسرة اسم يوم ليلة صباح مساء أسبوع شهر سنة ساعة وقت هواء مطر شمس طبيب مستشفى رأس يد عين
+فم أذن دكان سوق سعر فندق مطعم سؤال جواب لغة درس معلم طالب جامعة فيلم موسيقى هاتف قط كلب شجرة
+وردة قميص حذاء صورة دراجة طريق رسالة مفتاح حقيبة بحر جبل فطور غداء عشاء عيد حديقة جار زوج زوجة
+عمر سرير جسم قلب ورقة كلمة
+[VERB]
+ذهب جاء أكل شرب نام قرأ كتب تكلم سمع رأى عرف أراد أحب فهم عمل درس سكن فتح أغلق أعطى أخذ اشترى باع
+جلس قام خرج دخل رجع لعب سأل قال ساعد انتظر
+[ADJ]
+كبير صغير جديد قديم جميل جيد سيئ طويل قصير سعيد حزين حار بارد سهل صعب كثير قليل غال رخيص قريب بعيد
+مريض جائع سريع بطيء
+[ADV]
+جدا أيضا فقط دائما غدا أمس الآن هنا هناك
