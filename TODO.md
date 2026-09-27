@@ -22,6 +22,22 @@ Not yet published.
 - **Live browser check** (RTL, font, primer, Read tab). External re-QA
   gave SHIP on 2026-09-26; the polish round after it is not re-QA'd.
 
+## Sentence-link QA history (hand samples)
+
+| Sample | Wrong links | Link accuracy |
+|---|---|---|
+| Seed 47, 48 sentences (tag t27) | 11 of 233 | 95.3% |
+| Seed 48, 48 sentences (tag t30) | 9 of 230 | 96.1% |
+| Seed 82, external QA snapshot | 21 of 236 | 91.1% |
+| Seed 82, after the QA fix round (tag t42) | 4 of 239 | 98.3% |
+
+The QA fix round added a per-sentence English check (`fix_links`): a
+content-word link is dropped when the sentence English does not carry its
+gloss and does carry another reading of the spelling (a rival dictionary
+sense, a clitic split, or a proper name: يومي Yumi, بيتي Betty, كن Ken). It
+never leaves a word with fewer than two sentences (`fix_links_floor`). In a
+hand sample of 40 dropped links, 4 were false drops, all paraphrase.
+
 ## Residual defect classes (measured in hand samples, not fixed)
 
 External QA (seed-82 snapshot) found seven classes. The fix round in `ar.py`
