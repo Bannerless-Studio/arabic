@@ -55,7 +55,7 @@ retagging) live in `engine/tools/packbuilder/langs/ar.py`, not in this repo.
 - Edit `pack/*.json` by hand; change `tools/gloss_overrides.json`,
   `tools/forced_a1.txt` or `langs/ar.py` and rebuild.
 - Edit `pack/*.js`, `index.html` or `sw.js` by hand (generated).
-- Delete `sw.js` (use `engine/sw.disable.js`).
+- Delete `sw.js` (use `engine/engine/sw.disable.js`).
 - Add comments that say what the code does; only why, or an external
   reference.
 - Push to main without `git merge-base --is-ancestor origin/main HEAD`.
