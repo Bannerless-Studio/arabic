@@ -4,6 +4,8 @@ Status 2026-09-26: pack, primer and passages built. All checks pass except
 the stale-build guard's git-tracking half, since nothing is committed yet.
 Not yet published.
 
+Republish 09e90bc: sentence spans (15540/15540 linked words placed); inflected forms now cloze targets.
+
 ## Before publishing
 
 - **Engine commit + submodule bump.** `langs/ar.py` and three small core
