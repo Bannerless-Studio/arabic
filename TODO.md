@@ -5,6 +5,8 @@ the stale-build guard's git-tracking half, since nothing is committed yet.
 Not yet published.
 
 Republish 09e90bc: sentence spans (15540/15540 linked words placed); inflected forms now cloze targets.
+Republish ef44c6e: قنبلة A2→B1; عم B1→A2 (BLOOD exception) with override عم|noun "paternal uncle"; deleted override keys ثان|adj, صح|verb, علم|noun, مشاهدة|noun; set-counter and no-voice planner fixes
+Open: عم "paternal uncle" still links homographs عَمِيَ "went blind" and عمّ "prevailed" (عم الصمت); 3 of its 7 examples are wrong senses (pre-existing, now at A2).
 
 ## Before publishing
 

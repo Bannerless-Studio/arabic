@@ -41,25 +41,25 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1043, 'verb': 387, 'adj
 
 ## Sentences
 
-- Final sentences: **3,024**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Final sentences: **3,023**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
 - Word coverage: 0 = 0, 1 = 1, 2 = 1999.
 - Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 26,096. Rejected for a content lemma outside pack/top-3000: 10,258.
-- Primary word level of each sentence: {'B1': 1221, 'A1': 697, 'A2': 1106}.
+- Primary word level of each sentence: {'B1': 1221, 'A1': 697, 'A2': 1105}.
 - Token-length distribution of the final set:
 
 | tokens | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| sentences | 22 | 191 | 984 | 1009 | 530 | 183 | 50 | 22 | 16 | 5 | 8 | 4 |
+| sentences | 22 | 190 | 985 | 1010 | 528 | 183 | 50 | 22 | 16 | 5 | 8 | 4 |
 
 ## Kelly CEFR cross-check (sanity only, not shipped)
 
-1,860 of 2,000 lemmas matched Kelly. Exact level agreement 597/1860 = 32.1%; within one level 1335/1860 = 71.8%.
+1,860 of 2,000 lemmas matched Kelly. Exact level agreement 597/1860 = 32.1%; within one level 1337/1860 = 71.9%.
 
 | pack \ kelly | A1 | A2 | B1 | B2 | C1 | C2 |
 |---|---|---|---|---|---|---|
 | **A1** | 258 | 127 | 89 | 51 | 13 | 9 |
-| **A2** | 152 | 185 | 146 | 108 | 44 | 27 |
-| **B1** | 94 | 198 | 154 | 115 | 52 | 38 |
+| **A2** | 153 | 185 | 146 | 107 | 44 | 27 |
+| **B1** | 93 | 198 | 154 | 116 | 52 | 38 |
 
 ## Top 100 by rank (lemma [pos] gloss)
 

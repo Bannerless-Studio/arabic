@@ -176,7 +176,6 @@
  "توجيه|noun": "guidance, direction",
  "توفير|noun": "saving; providing",
  "توقيت|noun": "timing; time (by the clock)",
- "ثان|adj": "second",
  "ثانوي|adj": "secondary; (مدرسة ثانوية) high school",
  "ثلاثة|num": "three",
  "ثمن|noun": "price, cost",
@@ -321,7 +320,6 @@
  "شيء|noun": "thing, something",
  "صاحب|noun": "owner; friend, companion",
  "صادق|adj": "honest, truthful",
- "صح|verb": "to be right, to be correct",
  "صحراء|noun": "desert",
  "صحفي|adj": "journalist, reporter",
  "صحيح|adj": "correct, true, right",
@@ -379,7 +377,6 @@
  "عقوبة|noun": "punishment, penalty; sentence",
  "علاقة|noun": "relationship, relation",
  "علق|verb": "to hang; to comment",
- "علم|noun": "science, knowledge; flag",
  "علم|verb": "to know, to learn (of)",
  "علوي|adj": "upper; (الطابق العلوي) upstairs",
  "على|prep": "on; about; (عليه أن) must",
@@ -502,7 +499,6 @@
  "مساعدة|noun": "help",
  "مستخدم|noun": "user; employee",
  "مسدس|noun": "pistol, handgun",
- "مشاهدة|noun": "watching, viewing",
  "مشكلة|noun": "problem",
  "مصور|noun": "photographer; illustrated",
  "مطاف|noun": "(في نهاية المطاف) in the end",
@@ -609,5 +605,6 @@
  "حمض|noun": "acid",
  "ركب|verb": "to ride, to get on (a vehicle)",
  "أخرج|verb": "to take out; to direct (a film)",
- "وقع|verb": "to fall; (يقع في) to be located (in); to happen"
+ "وقع|verb": "to fall; (يقع في) to be located (in); to happen",
+ "عم|noun": "paternal uncle"
 }
