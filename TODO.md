@@ -114,3 +114,7 @@ fixes, a political/religious drop pattern, and a romaniser for the missing
   native-reviewed and no external QA round yet.
 - A1 has 13 of 40 mc keys verbatim in the text. That is under the ≤15
   target but the highest level.
+
+## Republish 10706a9 (2026-10-08, port wave 3)
+- Republish 10706a9: typed modes, day-aware scheduling, reading rotation, goals, pairs (script units keep their Review share), frequency tiers, Progress v2, redesigned tabs, session estimates. Pack diff vs 84b33f4: every word gains `ft` (A1 [100,440,60] A2 [0,525,175] B1 [0,420,280] ambient/core/peripheral); pack.json gains exactly the port flag block + `eta`; sentences, passages, script, attribution identical. `eta` measured with `tests/eta_checks.js --pack pack --calibrate --sessions 600` (tools/eta.json); check.sh now runs `packbuilder enrich --check`.
+- Migration proof: rollback hash 84b33f4e695f3e4364803b36558d302c2f8713a7; previous live md5 index 7db059405c8003456b42cac32b871c05, sw 75d0b14fe476f7d06c7a46d6788142f3. Storage: new fields day/sn/t/u/f/p/pm/pv/pause/read.done s,ls/today.tw on first use (script records gain t/u, never p); boot writes nothing; previous build ef44c6e/aa00571 carries them (migration [port], primer learned).
