@@ -29,7 +29,7 @@ Candidate pool: 6,852 (lemma, POS) keys in blended-rank order, one POS per lemma
 |---|---|---|
 | no usable Wiktionary entry for corpus POS | 1,463 | ال, ها, ?دي, مؤخر, ?ط, ?م, أشبه, ?سي, ?د, ?جي, أمني, مفترض |
 | fewer than 3 tokens in the tagged corpus | 1,293 | ني, مسار, بطولة, محافظ, مكافحة, مقر, خليج, ملفة, تحميل, خمس, مقدم, صح |
-| second POS entry without a distinct sense | 98 | أمر, قتل, لعب, بحث, تحدث, تعلم, عرض, أمل, عبر, حكم, ضغط, نقل |
+| second POS entry without a distinct sense | 99 | أمر, قتل, لعب, بحث, تحدث, تعلم, عرض, أمل, عبر, حكم, ضغط, نقل |
 | proper noun (corpus PROPN/capitalised majority) | 22 | جمال, جين, بيل, هان, فريد, دان, جون, بول, خالد, علي, ليلي, بوب |
 | interjection (not in forced greetings) | 6 | أوه, آه, المهم, العفو, الوداع, وا |
 | profanity (hand list) | 2 | لعنة, عاهرة |
@@ -42,14 +42,15 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1043, 'verb': 387, 'adj
 ## Sentences
 
 - Final sentences: **3,023**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,014 kept, 9 new (s3024, s3025, s3026, s3027, s3028, s3029, s3030, s3031, s3032), 9 retired.
 - Word coverage: 0 = 0, 1 = 1, 2 = 1999.
 - Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 26,096. Rejected for a content lemma outside pack/top-3000: 10,258.
-- Primary word level of each sentence: {'B1': 1221, 'A1': 697, 'A2': 1105}.
+- Primary word level of each sentence: {'B1': 1221, 'A1': 696, 'A2': 1106}.
 - Token-length distribution of the final set:
 
 | tokens | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| sentences | 22 | 190 | 985 | 1010 | 528 | 183 | 50 | 22 | 16 | 5 | 8 | 4 |
+| sentences | 22 | 190 | 981 | 1012 | 530 | 183 | 50 | 22 | 16 | 5 | 8 | 4 |
 
 ## Kelly CEFR cross-check (sanity only, not shipped)
 
@@ -96,7 +97,7 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1043, 'verb': 387, 'adj
   30 آخر [adj] other, another; last
   31 أي [det] which, any
   32 أو [conj] or
-  33 هل [part] (yes/no question)
+  33 هل [part] whether (yes/no question)
   34 إذا [conj] if, when
   35 بعد [prep] after
   36 هي [pron] she; it
@@ -207,4 +208,10 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1043, 'verb': 387, 'adj
 - id map refrozen (w0001-w2000). Checks: check_pack PASSED, validate_pack 0
   errors, passages --check 0 errors, two builds byte-identical, italian and
   persian ./check.sh pass.
+### Gloss and tier QA pass (2026-10-14, seed 505)
+
+- Glosses: all 2000 read against the typed-cue rules; 295 changed (163 new primary or sense order, 82 trimmed to the B1 sense, 47 senses or qualifiers added; near-duplicate A1/A2 pairs got qualifiers). 284 keys sit in `gloss_overrides.json` (249 new, 35 edited), 12 in `gloss_display.json`: the nisba adjectives the builder keeps as ADJ but ships as nouns, and homograph noun/verb pairs where a steering gloss dropped the verb from the pool.
+- Tiers: 103 entries in `tiers_overrides.json` by word id: 54 A1 spoken basics out of peripheral (numbers, days, months, greetings, food), 34 everyday words out of A2/B1 peripheral, 5 ambient abstract words to core, 10 corpus artefacts (duplicate forms, literary or news-genre words) to peripheral.
+- Sample seed 505: 58/60 words correct before the fixes (two sense gaps, حي and غذاء, now fixed), 300/304 links (98.7%), 56/60 sentences fully correct; the four wrong links predate this pass.
+- Rebuild: word ids 2000/2000 unchanged, 9 of 3023 sentences re-picked (fresh ids s3024-s3032), 2 words changed level (أحضر B1 to A2, جثة A2 to B1), ودع now reads waddaʿa with forms يودع.
 <!-- manual:end -->

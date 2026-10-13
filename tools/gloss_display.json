@@ -1,0 +1,15 @@
+{
+ "_note": "Display-only senses (merged into en after ranking and linking; core/words.apply_gloss_display). Used where the builder keeps the record as ADJ (nisba adjective shipped as noun) so gloss_overrides cannot apply.",
+ "إنجليزي|noun": "English; the English language",
+ "رائد|noun": "pioneer; major (rank)",
+ "سائق|noun": "driver",
+ "عامل|noun": "worker",
+ "فضائي|noun": "alien; space (adj.)",
+ "مسلسل|noun": "TV series",
+ "واجب|noun": "duty, obligation; homework",
+ "أثر|noun": "effect, impact; trace, mark",
+ "قبض|noun": "grasping, seizure; receiving (money)",
+ "حكم|noun": "rule, governance; judgment, verdict",
+ "تحمل|noun": "endurance; tolerance",
+ "حسن|verb": "to improve"
+}
