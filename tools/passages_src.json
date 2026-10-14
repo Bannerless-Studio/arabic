@@ -3216,7 +3216,9 @@
    "id": "p0028",
    "lv": "A2",
    "title": "في السوق القديم",
-   "oop": {},
+   "oop": {
+    "ذهب": "gold (noun): no pack word, the pack verb is \"go\""
+   },
    "names": [],
    "sentences": [
     [
@@ -4310,7 +4312,9 @@
    "id": "p0037",
    "lv": "A2",
    "title": "هدية لأمي",
-   "oop": {},
+   "oop": {
+    "احسن": "best (adjective): no pack word, the pack verb is \"do well\""
+   },
    "names": [],
    "sentences": [
     [
@@ -4660,7 +4664,9 @@
    "id": "p0040",
    "lv": "A2",
    "title": "حياة جدتي",
-   "oop": {},
+   "oop": {
+    "احسن": "best (adjective): no pack word, the pack verb is \"do well\""
+   },
    "names": [],
    "sentences": [
     [
@@ -5032,7 +5038,8 @@
    "lv": "B1",
    "title": "مهرجان الكتاب",
    "oop": {
-    "المغرب": "name"
+    "المغرب": "name",
+    "دار": "house (publishing house): no pack word, the pack verb is \"turn\""
    },
    "names": [
     "المغرب"
@@ -6168,7 +6175,8 @@
    "lv": "B1",
    "title": "مقابلة مع لاعب",
    "oop": {
-    "ياسر": "name"
+    "ياسر": "name",
+    "ساق": "leg (noun): no pack word, the pack verb is \"drive\""
    },
    "names": [
     "ياسر"
@@ -6288,7 +6296,6 @@
      "options": null,
      "answer": true,
      "words": [
-      "ساق",
       "بدون"
      ],
      "sentence": 11
@@ -9163,7 +9170,9 @@
    "id": "p0075",
    "lv": "B1",
    "title": "يوم بلا شاشات",
-   "oop": {},
+   "oop": {
+    "أقارب": "relatives: a distractor option, no pack word"
+   },
    "names": [],
    "sentences": [
     [
