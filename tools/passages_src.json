@@ -7274,6 +7274,2682 @@
      "sentence": 10
     }
    ]
+  },
+  {
+   "id": "p0061",
+   "lv": "A2",
+   "title": "يوميات رنا",
+   "oop": {
+    "رنا": "name",
+    "هالة": "name"
+   },
+   "names": [
+    "رنا",
+    "هالة"
+   ],
+   "sentences": [
+    [
+     "الأحد: بدأت اليوم العمل في شركة جديدة في وسط المدينة.",
+     "Sunday: Today I started work at a new company in the city centre."
+    ],
+    [
+     "في الصباح كان لي لقاء مع المدير، وهو رجل لطيف.",
+     "In the morning I had a meeting with the manager, a kind man."
+    ],
+    [
+     "قال لي إن مهمتي الأولى أن أكتب قائمة بأسماء العملاء.",
+     "He told me my first task is to write a list of the customers' names."
+    ],
+    [
+     "الاثنين: كتبت القائمة في ساعتين، وشعرت بالسعادة.",
+     "Monday: I wrote the list in two hours and felt happy."
+    ],
+    [
+     "بعد الظهر ساعدتني هالة، وهي موظفة قديمة في الشركة، في تغيير صفحتها على الإنترنت.",
+     "In the afternoon Hala, an old employee of the company, helped me change its page on the internet."
+    ],
+    [
+     "هي تعمل هنا منذ خمس سنوات، وتعرف كل شيء عن العمل.",
+     "She has worked here for five years and knows everything about the job."
+    ],
+    [
+     "الثلاثاء: جاء القطار بعد الوقت بنصف ساعة، فوصلت إلى المكتب متأخرة.",
+     "Tuesday: The train came half an hour late, so I got to the office late."
+    ],
+    [
+     "لم يقل المدير شيئا سيئا، لكنه قال: الوقت مهم هنا.",
+     "The manager did not say anything bad, but he said: Time is important here."
+    ],
+    [
+     "لذلك أخرج الآن من البيت في الساعة السابعة.",
+     "So now I leave the house at seven."
+    ],
+    [
+     "الأربعاء: نجحت اليوم في مهمة صعبة، وكتب لي المدير كلمة شكر.",
+     "Wednesday: Today I succeeded in a hard task, and the manager wrote me a word of thanks."
+    ],
+    [
+     "أظن أن هذا العمل مناسب لي.",
+     "I think this job suits me."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ما المهمة الأولى التي أعطاها المدير لرنا؟",
+     "en": "What was the first task the manager gave Rana?",
+     "type": "mc",
+     "options": [
+      "كتابة قائمة",
+      "تغيير صفحة الشركة",
+      "شراء مكتب",
+      "السفر إلى مدينة أخرى"
+     ],
+     "answer": 0,
+     "words": [
+      "مهمة",
+      "قائمة"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "احتاجت رنا إلى ساعتين لتكتب القائمة.",
+     "en": "Rana needed two hours to write the list.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "قائمة",
+      "ساعة"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "من ساعدت رنا في تغيير الصفحة؟",
+     "en": "Who helped Rana change the page?",
+     "type": "mc",
+     "options": [
+      "المدير",
+      "هالة",
+      "أختها",
+      "أمها"
+     ],
+     "answer": 1,
+     "words": [
+      "ساعد",
+      "صفحة",
+      "تغيير"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "قال المدير إن الوقت مهم في الشركة.",
+     "en": "The manager said that time is important in the company.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "وقت",
+      "مهم"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "لماذا تخرج رنا من البيت في الساعة السابعة الآن؟",
+     "en": "Why does Rana now leave home at seven?",
+     "type": "mc",
+     "options": [
+      "لأن العمل يبدأ في الساعة السابعة",
+      "لأنها تحب الصباح",
+      "لأنها لا تريد أن تصل متأخرة",
+      "لأن المدير طلب ذلك"
+     ],
+     "answer": 2,
+     "words": [
+      "خرج",
+      "سابع"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0062",
+   "lv": "A2",
+   "title": "في البنك",
+   "oop": {
+    "ياسر": "name"
+   },
+   "names": [
+    "ياسر"
+   ],
+   "sentences": [
+    [
+     "ذهب ياسر إلى البنك صباح الاثنين لأنه يريد بطاقة جديدة.",
+     "Yasir went to the bank on Monday morning because he wants a new card."
+    ],
+    [
+     "كان المكان مليئا بالناس، وكان الجو حارا.",
+     "The place was full of people, and the weather was hot."
+    ],
+    [
+     "وقف في الصف عشر دقائق، ثم جاء دوره.",
+     "He stood in line for ten minutes, then his turn came."
+    ],
+    [
+     "قال الموظف: صباح الخير، كيف أساعدك؟",
+     "The employee said: Good morning, how can I help you?"
+    ],
+    [
+     "قال ياسر: أريد بطاقة جديدة، لأن بطاقتي القديمة ضاعت.",
+     "Yasir said: I want a new card, because my old card was lost."
+    ],
+    [
+     "سأل الموظف: هل تعرف رقم حسابك؟",
+     "The employee asked: Do you know your account number?"
+    ],
+    [
+     "كتب ياسر الرقم وعنوان بيته على ورقة صغيرة.",
+     "Yasir wrote the number and his home address on a small piece of paper."
+    ],
+    [
+     "قال الموظف: ستصلك البطاقة بالبريد بعد أسبوع.",
+     "The employee said: The card will reach you by mail after a week."
+    ],
+    [
+     "ثم سأل ياسر: هل أستطيع أن آخذ مبلغا من المال اليوم؟",
+     "Then Yasir asked: Can I take an amount of money today?"
+    ],
+    [
+     "قال الموظف: بالطبع، تستطيع أن تأخذ مبلغا صغيرا من هنا.",
+     "The employee said: Of course, you can take a small amount from here."
+    ],
+    [
+     "أخذ ياسر المال وشكر الموظف وخرج.",
+     "Yasir took the money, thanked the employee and left."
+    ],
+    [
+     "في الطريق إلى البيت اشترى هدية صغيرة لأخته.",
+     "On the way home he bought a small gift for his sister."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "لماذا ذهب ياسر إلى البنك؟",
+     "en": "Why did Yasir go to the bank?",
+     "type": "mc",
+     "options": [
+      "أراد أن يعمل هناك",
+      "أراد أن يشتري بيتا",
+      "أخته طلبت منه ذلك",
+      "لأنه فقد بطاقته"
+     ],
+     "answer": 3,
+     "words": [
+      "بطاقة",
+      "ضاع"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "انتظر ياسر ساعة في الصف.",
+     "en": "Yasir waited an hour in line.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "وقف",
+      "دقيقة"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "ماذا كتب ياسر على الورقة؟",
+     "en": "What did Yasir write on the paper?",
+     "type": "mc",
+     "options": [
+      "رقم الحساب والعنوان",
+      "اسم أخته الصغيرة",
+      "رقم هاتفه الجديد",
+      "اسم الموظف الذي ساعده"
+     ],
+     "answer": 0,
+     "words": [
+      "كتب",
+      "عنوان"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "كيف ستصل البطاقة الجديدة؟",
+     "en": "How will the new card arrive?",
+     "type": "mc",
+     "options": [
+      "مع أخته",
+      "في رسالة إلى بيته",
+      "في اليوم نفسه",
+      "مع الموظف نفسه بعد ساعة"
+     ],
+     "answer": 1,
+     "words": [
+      "بريد",
+      "وصل"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "اشترى ياسر شيئا لأخته بعد البنك.",
+     "en": "Yasir bought something for his sister after the bank.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "اشترى",
+      "هدية"
+     ],
+     "sentence": 11
+    }
+   ]
+  },
+  {
+   "id": "p0063",
+   "lv": "A2",
+   "title": "رحلة إلى الجزيرة",
+   "oop": {
+    "وليد": "name"
+   },
+   "names": [
+    "وليد"
+   ],
+   "sentences": [
+    [
+     "في الصيف الماضي ذهبت مع صديقي وليد في رحلة إلى جزيرة صغيرة في الجنوب.",
+     "Last summer I went with my friend Walid on a trip to a small island in the south."
+    ],
+    [
+     "أخذنا القطار إلى الميناء، ثم أخذنا سفينة صغيرة إلى الجزيرة.",
+     "We took the train to the port, then took a small ship to the island."
+    ],
+    [
+     "كانت الرحلة في البحر ساعة كاملة، وكانت الحرارة عالية جدا.",
+     "The trip at sea took a whole hour, and the heat was very high."
+    ],
+    [
+     "لم يكن في الجزيرة فندق، بل بيت صغير يملكه رجل كبير في السن.",
+     "There was no hotel on the island, but a small house owned by an elderly man."
+    ],
+    [
+     "قال لنا الرجل: الحياة هنا بسيطة وجميلة.",
+     "The man told us: Life here is simple and beautiful."
+    ],
+    [
+     "أكلنا السمك على الطاولة أمام البيت، وبعد العشاء شربنا الشاي تحت القمر.",
+     "We ate fish at the table in front of the house, and after dinner we drank tea under the moon."
+    ],
+    [
+     "في الصباح مشينا إلى الشمال حيث توجد غابة صغيرة.",
+     "In the morning we walked north, where there is a small forest."
+    ],
+    [
+     "أخذ وليد كاميرته وأخذ صورا للأشجار والحيوانات.",
+     "Walid took his camera and took pictures of the trees and animals."
+    ],
+    [
+     "بعد الظهر لعبنا في الماء، وكنا سعداء بهذه الراحة.",
+     "In the afternoon we played in the water, and we were happy with this rest."
+    ],
+    [
+     "في اليوم الثالث عدنا إلى المدينة بعد أن أخذنا صورا كثيرة.",
+     "On the third day we went back to the city after taking many pictures."
+    ],
+    [
+     "قال وليد: لن أنسى هذه الرحلة أبدا.",
+     "Walid said: I will never forget this trip."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "كيف وصل الصديقان إلى الجزيرة في النهاية؟",
+     "en": "How did the two friends finally reach the island?",
+     "type": "mc",
+     "options": [
+      "في طائرة صغيرة",
+      "في سيارة كبيرة",
+      "في سفينة صغيرة",
+      "في الحافلة"
+     ],
+     "answer": 2,
+     "words": [
+      "سفينة"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "كان في الجزيرة فندق كبير.",
+     "en": "There was a big hotel on the island.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "فندق",
+      "بيت"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "أين شرب الصديقان الشاي؟",
+     "en": "Where did the two friends drink tea?",
+     "type": "mc",
+     "options": [
+      "في الغابة",
+      "في السفينة",
+      "داخل البيت",
+      "في الخارج بعد العشاء"
+     ],
+     "answer": 3,
+     "words": [
+      "شاي",
+      "قمر"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "مشى الصديقان إلى الشمال في الصباح.",
+     "en": "The two friends walked north in the morning.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "شمال",
+      "غابة"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "ماذا فعل وليد بكاميرته؟",
+     "en": "What did Walid do with his camera?",
+     "type": "mc",
+     "options": [
+      "صور الأشجار والحيوانات",
+      "أعطاها للرجل الكبير في الجزيرة",
+      "أعطاها لصديقه",
+      "صور الرجل فقط"
+     ],
+     "answer": 0,
+     "words": [
+      "كاميرا",
+      "صورة"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0064",
+   "lv": "A2",
+   "title": "إعلان من النادي",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "يعلن نادي المدينة الرياضي عن بداية الموسم الجديد.",
+     "The city sports club announces the start of the new season."
+    ],
+    [
+     "يبدأ الموسم يوم السبت القادم في الساعة 10 من الصباح.",
+     "The season starts next Saturday at ten in the morning."
+    ],
+    [
+     "يستطيع كل طفل عمره أكثر من ثماني سنوات أن يشارك في الألعاب.",
+     "Every child older than eight can take part in the games."
+    ],
+    [
+     "عندنا هذا العام فرقتان جديدتان لكرة القدم وفرقة جديدة للأطفال الصغار.",
+     "This year we have two new football teams and a new team for small children."
+    ],
+    [
+     "ستكون هناك لعبة كل أسبوع، والفرقة التي تأخذ أكثر نقاط تحصل على الكأس.",
+     "There will be a game every week, and the team that gets the most points receives the cup."
+    ],
+    [
+     "وسيأخذ كل لاعب قميصا جديدا.",
+     "And every player will get a new shirt."
+    ],
+    [
+     "في نهاية الشهر نقيم حفلا كبيرا في الحديقة.",
+     "At the end of the month we hold a big party in the park."
+    ],
+    [
+     "ندعو كل الأهل إلى هذا الحفل، والدخول مجاني.",
+     "We invite all the families to this party, and entry is free."
+    ],
+    [
+     "سيكون هناك طعام وأغان لكل الأطفال.",
+     "There will be food and songs for all the children."
+    ],
+    [
+     "للتسجيل، اكتبوا اسم ابنكم وعنوانكم على ورقة.",
+     "To register, write your son's name and your address on a sheet of paper."
+    ],
+    [
+     "ضعوا الورقة في الصندوق أمام باب النادي قبل يوم الخميس.",
+     "Put the paper in the box in front of the club's door before Thursday."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "في أي وقت من الأسبوع يبدأ الموسم الجديد؟",
+     "en": "At what point in the week does the new season start?",
+     "type": "mc",
+     "options": [
+      "في بداية الأسبوع",
+      "في آخر الأسبوع",
+      "في نهاية الشهر",
+      "في وسط الأسبوع"
+     ],
+     "answer": 1,
+     "words": [
+      "موسم"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "يستطيع طفل عمره خمس سنوات أن يشارك.",
+     "en": "A five-year-old child can take part.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "طفل",
+      "سنة"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "ماذا تأخذ الفرقة التي تحصل على أكثر نقاط؟",
+     "en": "What does the team with the most points get?",
+     "type": "mc",
+     "options": [
+      "قميصا",
+      "هدية",
+      "الكأس",
+      "مالا"
+     ],
+     "answer": 2,
+     "words": [
+      "نقطة",
+      "كأس"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "الدخول إلى الحفل مجاني للأهل.",
+     "en": "Entry to the party is free for the families.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "حفل",
+      "مجاني"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "أين يضع الناس ورقة التسجيل؟",
+     "en": "Where do people put the registration sheet?",
+     "type": "mc",
+     "options": [
+      "في المدرسة",
+      "في الحديقة",
+      "عند مدير المدرسة في الصباح",
+      "في صندوق أمام النادي"
+     ],
+     "answer": 3,
+     "words": [
+      "صندوق",
+      "باب"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0065",
+   "lv": "A2",
+   "title": "مع جدتي في السوق",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "كل يوم جمعة أذهب مع جدتي إلى السوق القديم.",
+     "Every Friday I go with my grandmother to the old market."
+    ],
+    [
+     "جدتي تحب الطعام الطبيعي، ولا تشتري إلا من الناس الذين تعرفهم.",
+     "My grandmother likes natural food, and only buys from people she knows."
+    ],
+    [
+     "في السوق نشتري الخبز والجبن والفاكهة، وأحيانا قطعة صغيرة من اللحم.",
+     "In the market we buy bread, cheese and fruit, and sometimes a small piece of meat."
+    ],
+    [
+     "هي لا تأخذ شيئا قبل أن تنظر إليه جيدا وتسأل عن سعره.",
+     "She does not take anything before she looks at it well and asks about its price."
+    ],
+    [
+     "بعد ذلك نشرب كأسا من الحليب أو الشاي عند صديق قديم لها.",
+     "After that we drink a glass of milk or tea at an old friend's of hers."
+    ],
+    [
+     "ثم نعود إلى البيت، وأنا أحمل ما اشتريناه.",
+     "Then we go back home, and I carry what we bought."
+    ],
+    [
+     "في البيت تعمل جدتي سلطة كبيرة، وأنا أساعدها.",
+     "At home my grandmother makes a big salad, and I help her."
+    ],
+    [
+     "وأثناء العمل تغني أغنية قديمة تعلمتها من والدتها.",
+     "And while working she sings an old song she learned from her mother."
+    ],
+    [
+     "هذه الأغنية عندي ذكرى جميلة.",
+     "This song is a beautiful memory for me."
+    ],
+    [
+     "تقول جدتي إن سر الأكل الجيد هو الحب.",
+     "My grandmother says the secret of good food is love."
+    ],
+    [
+     "وعندما يجلس الأهل حول الطاولة، أرى السعادة على وجوههم.",
+     "And when the family sits around the table, I see happiness on their faces."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ماذا يشتري الكاتب وجدته من السوق؟",
+     "en": "What do the writer and his grandmother buy at the market?",
+     "type": "mc",
+     "options": [
+      "الخبز والفاكهة وقليلا من اللحم",
+      "الملابس والأحذية الجديدة",
+      "الكتب والأقلام",
+      "الحلوى والسكر"
+     ],
+     "answer": 0,
+     "words": [
+      "خبز",
+      "جبن",
+      "فاكهة"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "تشتري الجدة الأشياء دون أن تنظر إليها.",
+     "en": "The grandmother buys things without looking at them.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "نظر",
+      "سعر"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "ماذا تفعل الجدة في البيت؟",
+     "en": "What does the grandmother make at home?",
+     "type": "mc",
+     "options": [
+      "تشتري الخبز",
+      "تعمل سلطة",
+      "تشرب القهوة",
+      "تكتب رسالة"
+     ],
+     "answer": 1,
+     "words": [
+      "سلطة"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "الأغنية التي تغنيها الجدة تعلمتها من والدتها.",
+     "en": "The song the grandmother sings was learned from her mother.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "أغنية",
+      "غنى"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "الحب عند الجدة هو سر الأكل الجيد.",
+     "en": "For the grandmother, love is the secret of good food.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "سر",
+      "أكل"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0066",
+   "lv": "A2",
+   "title": "حادث صغير",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "وقع أمس حادث صغير في شارع الجامعة.",
+     "A small accident happened yesterday in University Street."
+    ],
+    [
+     "كانت سيارة تسير بسرعة كبيرة، ولم يستطع السائق أن يقف عند الإشارة.",
+     "A car was going at high speed, and the driver could not stop at the signal."
+    ],
+    [
+     "فضربت السيارة سيارة أخرى كانت أمامها.",
+     "So the car hit another car that was in front of it."
+    ],
+    [
+     "كانت إحدى السيارتين جديدة جدا، لكن الضرر فيها كان كبيرا.",
+     "One of the two cars was very new, but the damage to it was big."
+    ],
+    [
+     "لحسن الحظ لم يكن في السيارتين أطفال.",
+     "Luckily there were no children in the two cars."
+    ],
+    [
+     "خرج الرجلان من سيارتيهما، وكان الخوف على وجهيهما.",
+     "The two men got out of their cars, and fear was on their faces."
+    ],
+    [
+     "جاء حارس من المحل القريب وأمسك هاتفه ليتصل بالمستشفى.",
+     "A guard from the nearby store came and took his phone to call the hospital."
+    ],
+    [
+     "وصل الأطباء بعد عشر دقائق، ووصل رجال الشرطة بعدهم.",
+     "The doctors arrived after ten minutes, and the police arrived after them."
+    ],
+    [
+     "ساعد الأطباء رجلا جرحت يده، وهو الآن في البيت.",
+     "The doctors helped a man whose hand was hurt, and he is now at home."
+    ],
+    [
+     "قال أحد رجال الشرطة لنا: السرعة هي سبب الحادث.",
+     "One of the policemen told us: Speed is the cause of the accident."
+    ],
+    [
+     "وطلب من الناس ألا يسيروا بسرعة في الشوارع الصغيرة.",
+     "He asked people not to drive fast in the small streets."
+    ],
+    [
+     "الأمان أهم من الوقت.",
+     "Safety is more important than time."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ما سبب الحادث؟",
+     "en": "What was the cause of the accident?",
+     "type": "mc",
+     "options": [
+      "المطر في ذلك الصباح",
+      "الحر",
+      "سرعة السيارة",
+      "الأطفال"
+     ],
+     "answer": 2,
+     "words": [
+      "سرعة",
+      "حادث"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "كان في السيارتين أطفال.",
+     "en": "There were children in the two cars.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "طفل",
+      "سيارة"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "من اتصل بالمستشفى؟",
+     "en": "Who called the hospital?",
+     "type": "mc",
+     "options": [
+      "أحد السائقين",
+      "رجل الشرطة",
+      "طبيب",
+      "حارس من محل قريب"
+     ],
+     "answer": 3,
+     "words": [
+      "حارس",
+      "اتصل"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "جاء رجال الشرطة بعد الأطباء.",
+     "en": "The policemen came after the doctors.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "وصل"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "ماذا طلب رجل الشرطة من الناس؟",
+     "en": "What did the policeman ask people to do?",
+     "type": "mc",
+     "options": [
+      "ألا يسيروا بسرعة",
+      "أن يتصلوا بالشرطة",
+      "ألا يخرجوا من البيت",
+      "أن يشتروا سيارات جديدة"
+     ],
+     "answer": 0,
+     "words": [
+      "شارع",
+      "سار"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0067",
+   "lv": "A2",
+   "title": "رسالة إلكترونية",
+   "oop": {
+    "سلمى": "name"
+   },
+   "names": [
+    "سلمى"
+   ],
+   "sentences": [
+    [
+     "إلى مدير مركز اللغات،",
+     "To the director of the language centre,"
+    ],
+    [
+     "اسمي سلمى، وأنا طالبة في السنة الثانية في الجامعة.",
+     "My name is Salma, and I am a second-year student at university."
+    ],
+    [
+     "قرأت في صفحة المركز على الإنترنت أن عندكم مادة جديدة للترجمة.",
+     "I read on the centre's page on the internet that you have a new subject in translation."
+    ],
+    [
+     "أحب اللغات كثيرا، وأتكلم الإنجليزية جيدا.",
+     "I love languages very much, and I speak English well."
+    ],
+    [
+     "درست الإنجليزية في المدرسة خمس سنوات، وأريد أن أتعلم الترجمة لأنني أحب الكتب.",
+     "I studied English at school for five years, and I want to learn translation because I love books."
+    ],
+    [
+     "أريد أن أسجل في هذه المادة، لكن عندي بعض الأسئلة.",
+     "I want to register for this subject, but I have a few questions."
+    ],
+    [
+     "أولا، في أي مستوى تبدأ المادة؟",
+     "First, at which level does the subject start?"
+    ],
+    [
+     "وهل يوجد اختبار قبل الدرس الأول؟",
+     "And is there a test before the first lesson?"
+    ],
+    [
+     "ثانيا، هل يعطي المركز شهادة بعد نهاية الدرس؟",
+     "Second, does the centre give a certificate after the end of the course?"
+    ],
+    [
+     "وأخيرا، كم أدفع كل شهر؟",
+     "And finally, how much do I pay each month?"
+    ],
+    [
+     "أرجو أن ترسلوا إجابتكم إلى هذا البريد في أقرب وقت.",
+     "Please send your answer to this mail as soon as possible."
+    ],
+    [
+     "وإذا أردتم، أستطيع أن أزور المركز يوم الأحد.",
+     "And if you wish, I can visit the centre on Sunday."
+    ],
+    [
+     "مع الشكر، سلمى",
+     "With thanks, Salma"
+    ]
+   ],
+   "questions": [
+    {
+     "q": "أين قرأت سلمى عن المادة الجديدة؟",
+     "en": "Where did Salma read about the new subject?",
+     "type": "mc",
+     "options": [
+      "في كتاب اللغة القديم",
+      "على صفحة المركز",
+      "عند صديقتها",
+      "في الجامعة"
+     ],
+     "answer": 1,
+     "words": [
+      "صفحة",
+      "قرأ"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "تريد سلمى أن تسجل في مادة الترجمة.",
+     "en": "Salma wants to register for the translation subject.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ترجمة",
+      "مادة"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "ماذا تسأل سلمى في أول سؤال؟",
+     "en": "What does Salma ask in her first question?",
+     "type": "mc",
+     "options": [
+      "عن اسم المعلم الجديد",
+      "عن عدد الطلاب في الدرس",
+      "عن مستوى المادة",
+      "عن مكان المركز"
+     ],
+     "answer": 2,
+     "words": [
+      "مستوى"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "تسأل سلمى إن كان المركز يعطي شهادة.",
+     "en": "Salma asks whether the centre gives a certificate.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "شهادة"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "ماذا تريد سلمى في نهاية الرسالة؟",
+     "en": "What does Salma want at the end of the message?",
+     "type": "mc",
+     "options": [
+      "أن تكتب إلى المدير",
+      "أن تتصل بالمدير",
+      "أن تكتب رسالة أخرى",
+      "أن تذهب إلى المركز"
+     ],
+     "answer": 3,
+     "words": [
+      "مركز"
+     ],
+     "sentence": 11
+    }
+   ]
+  },
+  {
+   "id": "p0068",
+   "lv": "A2",
+   "title": "فيلم الأمس",
+   "oop": {
+    "طارق": "name",
+    "ريم": "name"
+   },
+   "names": [
+    "طارق",
+    "ريم"
+   ],
+   "sentences": [
+    [
+     "قال طارق: هل رأيت المسلسل الجديد على القناة الثانية؟",
+     "Tariq said: Did you see the new series on the second channel?"
+    ],
+    [
+     "قالت ريم: نعم، رأيت الحلقة الأولى أمس مع أهلي.",
+     "Reem said: Yes, I saw the first episode yesterday with my family."
+    ],
+    [
+     "قال طارق: وما رأيك؟ هل هو ممتع؟",
+     "Tariq said: And what do you think? Is it enjoyable?"
+    ],
+    [
+     "قالت ريم: القصة جميلة، والممثل الذي يلعب البطل ذكي وجاد.",
+     "Reem said: The story is beautiful, and the actor who plays the hero is clever and serious."
+    ],
+    [
+     "قال طارق: ومن الممثلة الرئيسية؟",
+     "Tariq said: And who is the main actress?"
+    ],
+    [
+     "قالت ريم: هي ممثلة معروفة في بلدنا، وصوتها جميل.",
+     "Reem said: She is an actress well known in our country, and her voice is beautiful."
+    ],
+    [
+     "قال طارق: وهل القصة حزينة؟",
+     "Tariq said: And is the story sad?"
+    ],
+    [
+     "قالت ريم: فيها لحظات حزينة، لكن البطل ينجح في النهاية.",
+     "Reem said: It has sad moments, but the hero succeeds in the end."
+    ],
+    [
+     "قال طارق: وهل المشاهد طويلة؟",
+     "Tariq said: And are the scenes long?"
+    ],
+    [
+     "قالت ريم: لا، كل حلقة تستمر أربعين دقيقة فقط.",
+     "Reem said: No, each episode lasts only forty minutes."
+    ],
+    [
+     "قال طارق: سأرى الحلقة الأولى هذا المساء.",
+     "Tariq said: I will watch the first episode this evening."
+    ],
+    [
+     "قالت ريم: وأنا سأراها مرة ثانية، لأني أحب الموسيقى فيها.",
+     "Reem said: And I will watch it again, because I love the music in it."
+    ],
+    [
+     "قال طارق: إذن نتكلم غدا عن الحلقة الثانية.",
+     "Tariq said: Then we will talk tomorrow about the second episode."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ما رقم القناة التي يعرض عليها المسلسل؟",
+     "en": "What is the number of the channel on which the series is shown?",
+     "type": "mc",
+     "options": [
+      "اثنان",
+      "واحد",
+      "ثلاثة",
+      "أربعة"
+     ],
+     "answer": 0,
+     "words": [
+      "قناة",
+      "مسلسل"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "رأت ريم الحلقة الأولى وحدها.",
+     "en": "Reem saw the first episode alone.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "حلقة",
+      "أهل"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "كيف تصف ريم الممثل الذي يلعب البطل؟",
+     "en": "How does Reem describe the actor who plays the hero?",
+     "type": "mc",
+     "options": [
+      "قديم ومشهور",
+      "جاد وذكي",
+      "جميل وضعيف",
+      "كبير وهادئ"
+     ],
+     "answer": 1,
+     "words": [
+      "ممثل",
+      "بطل"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "كم تستمر كل حلقة؟",
+     "en": "How long does each episode last?",
+     "type": "mc",
+     "options": [
+      "ساعتين",
+      "عشر دقائق",
+      "أقل من ساعة",
+      "أكثر من ساعة كاملة"
+     ],
+     "answer": 2,
+     "words": [
+      "حلقة",
+      "دقيقة"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "ريم لا تحب الموسيقى في المسلسل.",
+     "en": "Reem does not like the music in the series.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "موسيقى",
+      "أحب"
+     ],
+     "sentence": 11
+    }
+   ]
+  },
+  {
+   "id": "p0069",
+   "lv": "A2",
+   "title": "الغابة في الصباح",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "أحب الذهاب إلى الغابة في الصباح، لأن الجو هناك هادئ.",
+     "I like going to the forest in the morning, because the atmosphere there is quiet."
+    ],
+    [
+     "الحرارة في الصباح قليلة، والهواء بارد.",
+     "The temperature in the morning is low, and the air is cold."
+    ],
+    [
+     "الأشجار هنا ضخمة، وبعضها أكبر من بيوت القرية.",
+     "The trees here are huge, and some are bigger than the village houses."
+    ],
+    [
+     "تحت الأشجار طريق يذهب إلى الشرق، وطريق آخر يذهب إلى الغرب.",
+     "Under the trees there is a path that goes east, and another path that goes west."
+    ],
+    [
+     "إذا مشيت في الطريق الشرقي ساعة، وصلت إلى نهر عميق.",
+     "If you walk on the eastern path for an hour, you reach a deep river."
+    ],
+    [
+     "الماء في النهر بارد، وفيه سمك كثير.",
+     "The water in the river is cold, and it has a lot of fish."
+    ],
+    [
+     "وعلى الشاطئ ترى حيوانات صغيرة تأتي لتشرب.",
+     "And on the bank you see small animals coming to drink."
+    ],
+    [
+     "هي حيوانات خائفة، وتهرب بسرعة عندما تسمع صوتا.",
+     "They are fearful animals, and they run away fast when they hear a sound."
+    ],
+    [
+     "لذلك يجب أن تكون هادئا، وألا تتكلم بصوت عال.",
+     "So you must be quiet, and not speak in a loud voice."
+    ],
+    [
+     "وعندما يأتي الظهر، تعود الحيوانات إلى الغابة.",
+     "And when noon comes, the animals go back to the forest."
+    ],
+    [
+     "هذه أحسن ساعة في الغابة، وأنا أذهب إليها كل أسبوع.",
+     "This is the best hour in the forest, and I go to it every week."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "كيف تكون الحرارة في الصباح؟",
+     "en": "How is the temperature in the morning?",
+     "type": "mc",
+     "options": [
+      "عالية جدا",
+      "مثل المساء",
+      "شديدة",
+      "ليست عالية"
+     ],
+     "answer": 3,
+     "words": [
+      "حرارة"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "الأشجار في الغابة صغيرة.",
+     "en": "The trees in the forest are small.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "شجرة",
+      "ضخم"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "ماذا تجد إذا مشيت ساعة نحو الشرق؟",
+     "en": "What do you find if you walk an hour towards the east?",
+     "type": "mc",
+     "options": [
+      "نهرا عميقا",
+      "قرية صغيرة",
+      "بيتا قديما",
+      "بحرا كبيرا"
+     ],
+     "answer": 0,
+     "words": [
+      "نهر",
+      "عميق"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "الحيوانات في الغابة خائفة من الناس.",
+     "en": "The animals in the forest are afraid of people.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "خائف",
+      "هرب"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "لماذا يجب ألا تتكلم بصوت عال؟",
+     "en": "Why must you not speak in a loud voice?",
+     "type": "mc",
+     "options": [
+      "لأن الطريق طويل جدا في الغابة",
+      "حتى لا تهرب الحيوانات",
+      "لأن الجو بارد",
+      "حتى ترى السمك"
+     ],
+     "answer": 1,
+     "words": [
+      "هرب",
+      "خائف"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0070",
+   "lv": "A2",
+   "title": "مقابلة مع فنان",
+   "oop": {
+    "فادي": "name"
+   },
+   "names": [
+    "فادي"
+   ],
+   "sentences": [
+    [
+     "اليوم نتكلم مع الفنان فادي، وهو معروف في كل المدن.",
+     "Today we talk with the artist Fadi, who is known in every city."
+    ],
+    [
+     "سألناه: متى بدأت الرسم؟ فقال: عندما كان عمري سبع سنوات.",
+     "We asked him: When did you start drawing? He said: When I was seven."
+    ],
+    [
+     "سألناه: ما أداتك المفضلة؟ فقال: أحب الورق والقلم الأسود.",
+     "We asked: What is your favourite tool? He said: I like paper and the black pen."
+    ],
+    [
+     "وسألناه: أين ترسم؟ فقال: أرسم في الحدائق وفي الشوارع وفي البيوت.",
+     "And we asked: Where do you draw? He said: I draw in parks, in streets and in houses."
+    ],
+    [
+     "وماذا عن أسلوبك؟ قال: أحب الألوان الواضحة والخطوط البسيطة.",
+     "And what about your style? He said: I like clear colours and simple lines."
+    ],
+    [
+     "سألناه: هل يعجبك أن تبيع لوحاتك؟ فقال: نعم، لكن الأهم أن يحبها الناس.",
+     "We asked: Do you like selling your paintings? He said: Yes, but the most important thing is that people love them."
+    ],
+    [
+     "وسألناه: ما نصيحتك للصغار؟ قال: لا تخافوا من الخطأ.",
+     "And we asked: What is your advice to the young? He said: Do not be afraid of mistakes."
+    ],
+    [
+     "وأضاف: كل يوم أرسم شيئا جديدا، وهذا نشاطي المفضل.",
+     "And he added: Every day I draw something new, and this is my favourite activity."
+    ],
+    [
+     "وفي النهاية سألناه: ماذا تريد أن تفعل في المستقبل؟",
+     "At the end we asked him: What do you want to do in the future?"
+    ],
+    [
+     "قال: أريد أن أفتح مدرسة صغيرة للأطفال لتعليمهم الفن.",
+     "He said: I want to open a small school for children to teach them art."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "كم كان عمر فادي عندما بدأ الرسم؟",
+     "en": "How old was Fadi when he started drawing?",
+     "type": "mc",
+     "options": [
+      "عشر سنوات",
+      "خمس سنوات",
+      "سبع سنوات",
+      "عشرين سنة"
+     ],
+     "answer": 2,
+     "words": [
+      "رسم",
+      "عمر"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "أداة فادي المفضلة هي الألوان.",
+     "en": "Fadi's favourite tool is colours.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "أداة",
+      "مفضل"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "أين يرسم فادي؟",
+     "en": "Where does Fadi draw?",
+     "type": "mc",
+     "options": [
+      "في الجامعة وفي المدرسة معا",
+      "في المدرسة",
+      "في المحل",
+      "في الحدائق والشوارع"
+     ],
+     "answer": 3,
+     "words": [
+      "حديقة",
+      "شارع"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "يرى فادي أن الأهم أن يحب الناس لوحاته.",
+     "en": "Fadi thinks the most important thing is that people love his paintings.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "لوحة",
+      "أحب"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "ماذا يريد فادي أن يفعل في المستقبل؟",
+     "en": "What does Fadi want to do in the future?",
+     "type": "mc",
+     "options": [
+      "أن يفتح مدرسة للفن",
+      "أن يسافر إلى بلد بعيد",
+      "أن يبيع بيته",
+      "أن يترك الرسم"
+     ],
+     "answer": 0,
+     "words": [
+      "فن",
+      "مدرسة"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0071",
+   "lv": "B1",
+   "title": "المتحف الجديد",
+   "oop": {
+    "الإسكندرية": "name"
+   },
+   "names": [
+    "الإسكندرية"
+   ],
+   "sentences": [
+    [
+     "فتح متحف جديد أبوابه الأسبوع الماضي في وسط مدينة الإسكندرية.",
+     "A new museum opened its doors last week in the centre of Alexandria."
+    ],
+    [
+     "يقع المتحف في قصر قديم عمره أكثر من مئة سنة.",
+     "The museum is located in an old palace that is more than a hundred years old."
+    ],
+    [
+     "يضم المبنى ثلاثة طوابق، وفي كل طابق معرض مختلف.",
+     "The building has three floors, and each floor has a different exhibition."
+    ],
+    [
+     "في الطابق الأول خريطة كبيرة للمدينة كما كانت قبل ألف سنة.",
+     "On the first floor there is a big map of the city as it was a thousand years ago."
+    ],
+    [
+     "وفي الطابق الثاني يرى الناس أدوات وثيابا وخواتم وجدها الباحثون تحت الأرض.",
+     "On the second floor people see tools, clothes and rings that researchers found underground."
+    ],
+    [
+     "أما الطابق الثالث فهو للأطفال، وفيه ألعاب تعلمهم تاريخ مدينتهم.",
+     "As for the third floor, it is for children, and it has games that teach them the history of their city."
+    ],
+    [
+     "قال مدير المتحف إن بضعة آلاف من الناس زاروا المكان في الأسبوع الأول.",
+     "The museum's director said that a few thousand people visited the place in the first week."
+    ],
+    [
+     "ثمن التذكرة قليل، وهي مجانية للطلاب كل يوم خميس.",
+     "The ticket price is low, and it is free for students every Thursday."
+    ],
+    [
+     "ويستطيع من يريد أن يسأل الموظفين عن أي شيء، فهم يتكلمون ثلاث لغات.",
+     "And anyone who wants can ask the employees about anything, for they speak three languages."
+    ],
+    [
+     "قالت سيدة زارت المتحف: تعلمت هنا عن مدينتي أكثر مما تعلمته في المدرسة.",
+     "A woman who visited the museum said: I learned more here about my city than I learned at school."
+    ],
+    [
+     "ويفكر المسؤولون الآن في فتح مطعم صغير على السطح.",
+     "And the officials are now thinking of opening a small restaurant on the roof."
+    ],
+    [
+     "المتحف مفتوح كل يوم ما عدا الاثنين، من التاسعة صباحا إلى الخامسة مساء.",
+     "The museum is open every day except Monday, from nine in the morning to five in the evening."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "في أي نوع من البيوت يقع المتحف؟",
+     "en": "In what kind of building is the museum?",
+     "type": "mc",
+     "options": [
+      "مدرسة",
+      "قصر",
+      "فندق",
+      "مصنع"
+     ],
+     "answer": 1,
+     "words": [
+      "قصر"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "في الطابق الأول خريطة للمدينة قبل ألف سنة.",
+     "en": "On the first floor there is a map of the city from a thousand years ago.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "خريطة",
+      "طابق"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "لمن الطابق الثالث؟",
+     "en": "Who is the third floor for?",
+     "type": "mc",
+     "options": [
+      "للباحثين",
+      "للمدير",
+      "للصغار",
+      "للسيدات فقط"
+     ],
+     "answer": 2,
+     "words": [
+      "طابق"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "تذكرة الدخول مجانية للطلاب كل يوم.",
+     "en": "The entry ticket is free for students every day.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "تذكرة",
+      "مجاني"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "في أي يوم يكون المتحف مغلقا؟",
+     "en": "On which day is the museum closed?",
+     "type": "mc",
+     "options": [
+      "الخميس",
+      "الثلاثاء",
+      "السبت",
+      "الاثنين"
+     ],
+     "answer": 3,
+     "words": [
+      "عدا"
+     ],
+     "sentence": 11
+    }
+   ]
+  },
+  {
+   "id": "p0072",
+   "lv": "B1",
+   "title": "سباق الدراجات",
+   "oop": {
+    "مازن": "name"
+   },
+   "names": [
+    "مازن"
+   ],
+   "sentences": [
+    [
+     "في الشهر الماضي شاركت لأول مرة في سباق للدراجات حول البحيرة.",
+     "Last month I took part for the first time in a bicycle race around the lake."
+    ],
+    [
+     "بدأت التدريب قبل ثلاثة أشهر، لأن صديقي مازن اقترح علي ذلك.",
+     "I started training three months earlier, because my friend Mazen suggested it to me."
+    ],
+    [
+     "في الأسبوع الأول لم أستطع أن أركب الدراجة أكثر من نصف ساعة.",
+     "In the first week I could not ride the bicycle for more than half an hour."
+    ],
+    [
+     "لكن مازن قال لي: الأهم أن تستمر، فلا تتوقف.",
+     "But Mazen told me: The important thing is to continue, so do not stop."
+    ],
+    [
+     "وكان مازن صاحب خبرة، لأنه شارك في أكثر من عشرة سباقات.",
+     "And Mazen was experienced, because he had taken part in more than ten races."
+    ],
+    [
+     "قال لي أيضا: اشرب الماء كثيرا، ونم جيدا قبل السباق.",
+     "He also told me: Drink a lot of water, and sleep well before the race."
+    ],
+    [
+     "في يوم السباق استيقظت في الساعة 5، ولم أستطع أن آكل شيئا لأنني كنت قلقا.",
+     "On the day of the race I woke up at five, and I could not eat anything because I was worried."
+    ],
+    [
+     "كان في الملعب عدد كبير من الناس، وكان الجو باردا.",
+     "There was a large number of people in the stadium, and the weather was cold."
+    ],
+    [
+     "بدأ السباق، وبعد نصف الطريق شعرت أن رجلي ضعيفتان.",
+     "The race began, and after half the way I felt that my legs were weak."
+    ],
+    [
+     "وفي تلك اللحظة رأيت مازن بجانبي يقول: لا تتوقف، أنت قريب من النهاية.",
+     "At that moment I saw Mazen beside me saying: Do not stop, you are close to the end."
+    ],
+    [
+     "وصلت بعد ساعة وعشر دقائق، ولم أكن الأول، لكنني كنت فخورا.",
+     "I arrived after an hour and ten minutes, and I was not the first, but I was proud."
+    ],
+    [
+     "ونحن الآن نستعد للسباق القادم في الربيع.",
+     "And we are now getting ready for the next race in the spring."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "من الذي اقترح التدريب على الكاتب؟",
+     "en": "Who suggested the training to the writer?",
+     "type": "mc",
+     "options": [
+      "صديقه",
+      "أخوه",
+      "مدير الملعب",
+      "جاره"
+     ],
+     "answer": 0,
+     "words": [
+      "اقترح"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "ركب الكاتب الدراجة في الأسبوع الأول أكثر من ساعة.",
+     "en": "In the first week the writer rode the bicycle for more than an hour.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "أسبوع",
+      "ركب"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "لماذا لم يأكل الكاتب في صباح السباق؟",
+     "en": "Why didn't the writer eat on the morning of the race?",
+     "type": "mc",
+     "options": [
+      "لم يكن جائعا",
+      "لأنه كان خائفا من السباق",
+      "نام متأخرا",
+      "لم يجد طعاما"
+     ],
+     "answer": 1,
+     "words": [
+      "استيقظ",
+      "قلق"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "شعر الكاتب بضعف في رجليه في وسط السباق.",
+     "en": "The writer felt weakness in his legs in the middle of the race.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ضعيف",
+      "نصف"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "ما شعور الكاتب في النهاية؟",
+     "en": "How did the writer feel at the end?",
+     "type": "mc",
+     "options": [
+      "كان حزينا",
+      "كان غاضبا",
+      "كان فخورا",
+      "كان خائفا"
+     ],
+     "answer": 2,
+     "words": [
+      "فخور"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0073",
+   "lv": "B1",
+   "title": "مع سائق الأجرة",
+   "oop": {
+    "ناصر": "name",
+    "القاهرة": "name"
+   },
+   "names": [
+    "ناصر",
+    "القاهرة"
+   ],
+   "sentences": [
+    [
+     "يعمل السيد ناصر سائق سيارة أجرة في القاهرة منذ عشرين سنة.",
+     "Mr Nasser has worked as a taxi driver in Cairo for twenty years."
+    ],
+    [
+     "سألناه: ما الشيء الصعب في عملك؟ فقال: الطريق، لأن في المدينة سيارات كثيرة جدا.",
+     "We asked him: What is the hard thing in your work? He said: The road, because there are very many cars in the city."
+    ],
+    [
+     "وأضاف أنه يقضي ساعتين كل صباح في الشوارع قبل أن يصل إلى الجسر الكبير.",
+     "He added that he spends two hours every morning in the streets before reaching the big bridge."
+    ],
+    [
+     "سألناه: ومن هم الذين يركبون معك؟ فقال: كل أنواع الناس، الطلاب والأطباء والعمال.",
+     "We asked: And who rides with you? He said: All kinds of people, students, doctors and workers."
+    ],
+    [
+     "وأحيانا يطلب مني الناس القادمون من بلاد أخرى أن أريهم الأماكن الجميلة، وأنا أحب ذلك.",
+     "And sometimes people coming from other countries ask me to show them the beautiful places, and I like that."
+    ],
+    [
+     "وسألناه عن الأجرة، فقال: السعر ثابت، ولا أطلب مالا أكثر منه.",
+     "We asked him about the fare, and he said: The price is fixed, and I do not ask for more money than it."
+    ],
+    [
+     "قال إنه يعرف كل زاوية في المدينة، ولا يحتاج إلى خريطة.",
+     "He said he knows every corner of the city and does not need a map."
+    ],
+    [
+     "وسألناه: هل حدثت لك قصة غريبة؟ فضحك وقال: كثيرا.",
+     "We asked him: Has a strange story happened to you? He laughed and said: Often."
+    ],
+    [
+     "مرة نسي رجل حقيبته في السيارة، فبحثت عنه ثلاثة أيام حتى وجدته.",
+     "Once a man forgot his bag in the car, so I looked for him for three days until I found him."
+    ],
+    [
+     "وكان الرجل سعيدا جدا، لأن في الحقيبة أوراقا مهمة لعمله.",
+     "And the man was very happy, because the bag had papers important for his work."
+    ],
+    [
+     "وفي النهاية قال السيد ناصر: الصدق أهم من المال.",
+     "In the end Mr Nasser said: Honesty is more important than money."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ما الشيء الصعب في عمل ناصر؟",
+     "en": "What is the hard thing in Nasser's work?",
+     "type": "mc",
+     "options": [
+      "الناس",
+      "السيارة القديمة التي يملكها",
+      "الأجرة القليلة",
+      "الطريق المليء بالسيارات"
+     ],
+     "answer": 3,
+     "words": [
+      "صعب",
+      "طريق"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "يحتاج ناصر إلى خريطة ليجد الأماكن.",
+     "en": "Nasser needs a map to find places.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "خريطة",
+      "زاوية"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "لماذا لا يطلب ناصر مالا أكثر من الأجرة؟",
+     "en": "Why does Nasser not ask for more money than the fare?",
+     "type": "mc",
+     "options": [
+      "لأن السعر معروف ولا يتغير",
+      "الناس فقراء",
+      "يخاف من الشرطة",
+      "لا يحب المال"
+     ],
+     "answer": 0,
+     "words": [
+      "أجرة",
+      "ثابت"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "ماذا نسي الرجل في السيارة؟",
+     "en": "What did the man forget in the car?",
+     "type": "mc",
+     "options": [
+      "هاتفه",
+      "حقيبة صغيرة",
+      "ملفا",
+      "مفتاحه"
+     ],
+     "answer": 1,
+     "words": [
+      "نسي",
+      "حقيبة"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "بحث ناصر عن الرجل ثلاثة أيام.",
+     "en": "Nasser looked for the man for three days.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "بحث",
+      "وجد"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0074",
+   "lv": "B1",
+   "title": "زفاف أختي",
+   "oop": {
+    "لينا": "name",
+    "سامر": "name"
+   },
+   "names": [
+    "لينا",
+    "سامر"
+   ],
+   "sentences": [
+    [
+     "أمس كان يوم زفاف أختي لينا، وكان يوما لا أنساه.",
+     "Yesterday was my sister Lina's wedding day, and it was a day I will not forget."
+    ],
+    [
+     "استيقظنا في الصباح، وكان البيت مليئا بالأقارب والأصدقاء.",
+     "We woke up in the morning, and the house was full of relatives and friends."
+    ],
+    [
+     "لبست لينا ثوبا أبيض طويلا اشترته أمي من محل في وسط المدينة.",
+     "Lina wore a long white dress that my mother had bought from a shop in the city centre."
+    ],
+    [
+     "كانت أختي جميلة جدا في ذلك الثوب، ولم أستطع أن أقول شيئا.",
+     "My sister was very beautiful in that dress, and I could not say anything."
+    ],
+    [
+     "في المساء أقمنا الحفل في حديقة كبيرة قرب النهر.",
+     "In the evening we held the party in a big garden near the river."
+    ],
+    [
+     "كان الجو لطيفا، وكان القمر كبيرا فوق الماء.",
+     "The weather was pleasant, and the moon was big above the water."
+    ],
+    [
+     "وضع زوجها سامر الخاتم في إصبعها، وعم الصمت المكان لحظة.",
+     "Her husband Samer put the ring on her finger, and silence filled the place for a moment."
+    ],
+    [
+     "ثم ارتفعت الأصوات وبدأ الناس يغنون ويرقصون.",
+     "Then the voices rose and people began to sing and dance."
+    ],
+    [
+     "رقص أبي مع أمي، وكانت هذه مفاجأة كبيرة لنا جميعا.",
+     "My father danced with my mother, and this was a big surprise for all of us."
+    ],
+    [
+     "وأكلنا الحلوى والعسل والفاكهة حتى منتصف الليل.",
+     "And we ate sweets, honey and fruit until midnight."
+    ],
+    [
+     "وقف جدي وقال كلمة قصيرة: أتمنى لكما سنوات طويلة من السعادة.",
+     "My grandfather stood up and said a short word: I wish you both long years of happiness."
+    ],
+    [
+     "وعندما رجعنا إلى البيت، كنت سعيدا جدا، وبقيت أفكر في هذا اليوم حتى الصباح.",
+     "When we got back home, I was very happy, and I kept thinking about this day until the morning."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "أين أقام الأهل الحفل؟",
+     "en": "Where did the family hold the party?",
+     "type": "mc",
+     "options": [
+      "في فندق كبير",
+      "في بيت الأهل",
+      "في مكان قرب الماء",
+      "في قاعة المدينة"
+     ],
+     "answer": 2,
+     "words": [
+      "حفل",
+      "حديقة"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "لبست لينا ثوبا اشترته أمها.",
+     "en": "Lina wore a dress her mother had bought.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ثوب",
+      "اشترى"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "ماذا حدث عندما وضع سامر الخاتم؟",
+     "en": "What happened when Samer put on the ring?",
+     "type": "mc",
+     "options": [
+      "بدأ الناس يرقصون",
+      "بكت لينا",
+      "خرج الناس",
+      "هدأ كل شيء"
+     ],
+     "answer": 3,
+     "words": [
+      "خاتم",
+      "صمت"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "ما المفاجأة التي رآها الكاتب؟",
+     "en": "What surprise did the writer see?",
+     "type": "mc",
+     "options": [
+      "رقص أبيه مع أمه",
+      "غناء جده",
+      "حضور صديق قديم",
+      "هدية كبيرة من سامر"
+     ],
+     "answer": 0,
+     "words": [
+      "رقص",
+      "مفاجأة"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "انتهى الحفل في الصباح.",
+     "en": "The party ended in the morning.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "عسل",
+      "ليل"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0075",
+   "lv": "B1",
+   "title": "يوم بلا شاشات",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "قررت العائلة في بيتنا أن تقضي يوم السبت بلا تلفزيون وبلا كمبيوتر.",
+     "The family in our house decided to spend Saturday without television or computers."
+    ],
+    [
+     "في البداية لم يعجب هذا القرار أخي الصغير، وقال إنه لن يجد شيئا يفعله.",
+     "At first this decision did not please my little brother, and he said he would find nothing to do."
+    ],
+    [
+     "لكن أمي أخرجت من الصندوق ألعابا قديمة نسيناها منذ سنوات.",
+     "But my mother took out of the box old games that we had forgotten for years."
+    ],
+    [
+     "لعبنا الورق ساعتين، وضحكنا كثيرا.",
+     "We played cards for two hours, and we laughed a lot."
+    ],
+    [
+     "كان أخي يضحك أكثر منا جميعا.",
+     "My brother laughed more than all of us."
+    ],
+    [
+     "بعد الغداء جلس أبي معنا وأخبرنا قصة قديمة من حياته الأولى.",
+     "After lunch my father sat with us and told us an old story from his early life."
+    ],
+    [
+     "لم أكن أعرف أنه يتذكر كل هذه التفاصيل، فهو يتذكر أشياء كثيرة نسيتها أنا.",
+     "I did not know he remembered all these details, for he remembers many things that I forgot."
+    ],
+    [
+     "وبعدها دار بيننا نقاش طويل عن الحياة قبل الإنترنت.",
+     "And after that a long discussion went on between us about life before the internet."
+    ],
+    [
+     "وفي المساء ذهبت الكهرباء ساعة كاملة، فجلسنا في الظلام نتكلم.",
+     "In the evening the electricity went out for a whole hour, so we sat in the dark talking."
+    ],
+    [
+     "كان الجو باردا، فلبسنا ثيابا ثقيلة وشربنا شايا ساخنا.",
+     "It was cold, so we put on heavy clothes and drank hot tea."
+    ],
+    [
+     "قال أخي الصغير: كان هذا أجمل يوم في الشهر.",
+     "My little brother said: This was the nicest day of the month."
+    ],
+    [
+     "نحن الآن نحاول أن نعيد هذه المتعة كل أسبوع.",
+     "We are now trying to bring back this pleasure every week."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ماذا قررت العائلة أن تفعل يوم السبت؟",
+     "en": "What did the family decide to do on Saturday?",
+     "type": "mc",
+     "options": [
+      "أن تسافر إلى مدينة أخرى",
+      "أن تعيش بلا شاشات",
+      "أن تزور الأقارب",
+      "أن تقرأ الكتب"
+     ],
+     "answer": 1,
+     "words": [
+      "تلفزيون",
+      "كمبيوتر"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "أحب الأخ الصغير القرار منذ البداية.",
+     "en": "The little brother liked the decision from the beginning.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "أخ",
+      "قرار"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "ماذا فعل الأب بعد الغداء؟",
+     "en": "What did the father do after lunch?",
+     "type": "mc",
+     "options": [
+      "لعب الورق",
+      "نام ساعتين",
+      "روى قصة من الماضي",
+      "ذهب إلى السوق"
+     ],
+     "answer": 2,
+     "words": [
+      "أخبر",
+      "غداء"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "ذهبت الكهرباء في المساء.",
+     "en": "The electricity went out in the evening.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ظلام",
+      "كهرباء"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "كيف وصف الأخ الصغير ذلك اليوم في النهاية؟",
+     "en": "How did the little brother describe that day at the end?",
+     "type": "mc",
+     "options": [
+      "يوما أطول من كل الأيام",
+      "يوما باردا",
+      "يوما صعبا",
+      "أحسن يوم في الشهر"
+     ],
+     "answer": 3,
+     "words": [
+      "أجمل",
+      "شهر"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0076",
+   "lv": "B1",
+   "title": "زيارة المصنع",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "زارت مدرستنا الأسبوع الماضي مصنعا كبيرا للسيارات خارج المدينة.",
+     "Last week our school visited a big car factory outside the city."
+    ],
+    [
+     "وصلنا في الساعة التاسعة، وجاء إلينا موظف شاب وشرح لنا جدول الزيارة.",
+     "We arrived at nine, and a young employee came to us and explained the visit schedule to us."
+    ],
+    [
+     "أولا شاهدنا فيلما قصيرا عن تاريخ المصنع، الذي بدأ بعشرة عمال فقط.",
+     "First we watched a short film about the history of the factory, which started with only ten workers."
+    ],
+    [
+     "بعد ذلك دخلنا قاعة طويلة، طولها مئتا متر، فيها آلات ضخمة.",
+     "After that we entered a long hall, two hundred metres long, with huge machines."
+    ],
+    [
+     "الصوت هناك عال جدا، فلبسنا جميعا أغطية للأذن.",
+     "The sound there is very loud, so we all wore ear covers."
+    ],
+    [
+     "رأينا كيف تصنع الآلات الأبواب والمحركات، وكيف يراقب العمال العمل.",
+     "We saw how the machines make the doors and engines, and how the workers watch the work."
+    ],
+    [
+     "قال لنا الموظف إن التكنولوجيا الجديدة تساعد العمال ولا تأخذ أماكنهم.",
+     "The employee told us that the new technology helps the workers and does not take their places."
+    ],
+    [
+     "وأضاف أن كل سيارة تمر بعشرات الاختبارات قبل أن تصل إلى صاحبها.",
+     "He added that every car goes through dozens of tests before it reaches its owner."
+    ],
+    [
+     "في النهاية أخذنا هدية صغيرة، وهي سيارة من الورق صنعتها آلة المصنع نفسها.",
+     "At the end we got a small gift, a paper car made by one of the factory's own machines."
+    ],
+    [
+     "كتب كل طالب تقريرا عن الزيارة في اليوم التالي.",
+     "Each student wrote a report about the visit the next day."
+    ],
+    [
+     "وأنا أفكر الآن أن أعمل في مصنع مثل هذا في المستقبل.",
+     "And I am now thinking of working in a factory like this in the future."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "كم عاملا كان في المصنع في بدايته؟",
+     "en": "How many workers did the factory have at its start?",
+     "type": "mc",
+     "options": [
+      "عشرة",
+      "مئة",
+      "ألف",
+      "عشرين"
+     ],
+     "answer": 0,
+     "words": [
+      "عامل",
+      "مصنع"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "القاعة التي دخلوها قصيرة.",
+     "en": "The hall they entered was short.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "قاعة",
+      "متر"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "لماذا لبس الطلاب أغطية للأذن؟",
+     "en": "Why did the students wear ear covers?",
+     "type": "mc",
+     "options": [
+      "الجو بارد",
+      "الصوت عال جدا",
+      "كانوا خائفين",
+      "طلب المدير ذلك منهم"
+     ],
+     "answer": 1,
+     "words": [
+      "صوت"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "ماذا قال الموظف عن التكنولوجيا الجديدة؟",
+     "en": "What did the employee say about the new technology?",
+     "type": "mc",
+     "options": [
+      "تأخذ أماكن العمال",
+      "إنها غالية",
+      "تخدم العمال",
+      "إنها خطيرة"
+     ],
+     "answer": 2,
+     "words": [
+      "تكنولوجيا",
+      "عامل"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "كتب الطلاب تقريرا بعد الزيارة.",
+     "en": "The students wrote a report after the visit.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "تقرير",
+      "زيارة"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0077",
+   "lv": "B1",
+   "title": "ملاحظة إلى الجيران",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "إلى سكان الطابق الثالث والرابع،",
+     "To the residents of the third and fourth floors,"
+    ],
+    [
+     "نحن العائلة التي تسكن في الطابق الثاني، وأكتب إليكم هذه الملاحظة بكل احترام.",
+     "We are the family living on the second floor, and I am writing you this note with all respect."
+    ],
+    [
+     "في الأسبوع الماضي كانت هناك فوضى عند الباب، لأن الأحذية والدراجات كانت في كل مكان.",
+     "Last week there was a mess at the door, because shoes and bicycles were everywhere."
+    ],
+    [
+     "وفي ليلة الخميس سمعنا صوت الموسيقى حتى الواحدة صباحا.",
+     "And on Thursday night we heard the sound of music until one in the morning."
+    ],
+    [
+     "كنا لا نستطيع أن ننام، وكان عند ابنتي الصغيرة اختبار في الصباح.",
+     "We could not sleep, and my little daughter had a test in the morning."
+    ],
+    [
+     "نحن نفهم أن لكل إنسان الحق في أن يكون سعيدا مع أصدقائه.",
+     "We understand that every person has the right to be happy with his friends."
+    ],
+    [
+     "لكننا نطلب منكم أن تحافظوا على الصمت بعد العاشرة مساء.",
+     "But we ask you to keep quiet after ten in the evening."
+    ],
+    [
+     "ونطلب أيضا أن تضعوا الأشياء داخل البيوت، فالباب الكبير لنا جميعا.",
+     "We also ask that you put things inside the houses, for the big door belongs to all of us."
+    ],
+    [
+     "إذا كان عندكم أي مشكلة، فاتصلوا بنا على الهاتف، أو اتركوا ملاحظة تحت الباب.",
+     "If you have any problem, call us on the phone, or leave a note under the door."
+    ],
+    [
+     "ونعتذر مسبقا إن كنا نحن سببنا لكم أي مشكلة.",
+     "And we apologise in advance if we ourselves have caused you any problem."
+    ],
+    [
+     "شكرا لتفهمكم، ونتمنى لكم أياما سعيدة.",
+     "Thank you for your understanding, and we wish you happy days."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "في أي طابق تسكن العائلة التي كتبت الملاحظة؟",
+     "en": "On which floor does the family that wrote the note live?",
+     "type": "mc",
+     "options": [
+      "الثالث",
+      "الرابع",
+      "الأول",
+      "الثاني"
+     ],
+     "answer": 3,
+     "words": [
+      "طابق"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "كانت الموسيقى عالية في ليلة السبت.",
+     "en": "The music was loud on Saturday night.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "موسيقى",
+      "ليلة"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "لماذا لم تنم العائلة؟",
+     "en": "Why did the family not sleep?",
+     "type": "mc",
+     "options": [
+      "الموسيقى العالية",
+      "المطر الذي نزل في الليل",
+      "الحر",
+      "الخوف"
+     ],
+     "answer": 0,
+     "words": [
+      "نام"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "ماذا تطلب العائلة من الجيران بعد العاشرة؟",
+     "en": "What does the family ask the neighbours to do after ten?",
+     "type": "mc",
+     "options": [
+      "أن يخرجوا من البيت",
+      "أن يكونوا هادئين",
+      "أن يغلقوا الأبواب",
+      "أن يتصلوا بالشرطة"
+     ],
+     "answer": 1,
+     "words": [
+      "صمت",
+      "حافظ"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "تعتذر العائلة إذا سببت مشكلة للجيران.",
+     "en": "The family apologises if it has caused a problem for the neighbours.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "اعتذر",
+      "مشكلة"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0078",
+   "lv": "B1",
+   "title": "الجد وطائر البحيرة",
+   "oop": {
+    "فؤاد": "name"
+   },
+   "names": [
+    "فؤاد"
+   ],
+   "sentences": [
+    [
+     "كان يعيش في قرية صغيرة قرب البحيرة رجل فقير اسمه الجد فؤاد، وعمله صيد السمك.",
+     "In a small village near the lake there lived a poor man called Grandfather Fuad, whose work was fishing."
+    ],
+    [
+     "كان كل يوم يخرج قبل الفجر في قاربه القديم، ويرمي حبله في الماء.",
+     "Every day he went out before dawn in his old boat and threw his rope into the water."
+    ],
+    [
+     "وفي يوم من الأيام لم يجد في الصباح سمكة واحدة، وفي المساء لم يجد شيئا أيضا.",
+     "One day he did not find a single fish in the morning, and in the evening he found nothing either."
+    ],
+    [
+     "وعندما أراد أن يعود، سمع صوتا ضعيفا قرب الشاطئ.",
+     "And when he wanted to go back, he heard a weak sound near the shore."
+    ],
+    [
+     "كان هناك طائر صغير وقع في الماء، ولم يستطع أن يخرج منه.",
+     "There was a small bird that had fallen into the water and could not get out of it."
+    ],
+    [
+     "أنقذه الرجل بيده، ووضعه تحت ثوبه ليحميه من البرد.",
+     "The man saved it with his hand and put it under his clothes to protect it from the cold."
+    ],
+    [
+     "في الأيام التالية أعطاه قطعة من السمك كل يوم، ولم يتركه حتى صار قويا.",
+     "In the following days he gave it a piece of fish every day and did not leave it until it became strong."
+    ],
+    [
+     "وفي صباح جميل فتح الرجل يده، فخرج الطائر إلى السماء.",
+     "On a beautiful morning the man opened his hand, and the bird went out to the sky."
+    ],
+    [
+     "مرت الأيام، وفي الشتاء الصعب جاءت عاصفة وكسرت قارب الرجل.",
+     "Days passed, and in the hard winter a storm came and broke the man's boat."
+    ],
+    [
+     "جلس الرجل حزينا أمام بيته، وفجأة جاء الطائر نفسه ومعه عشرات الطيور.",
+     "The man sat sad in front of his house, and suddenly the same bird came with dozens of birds."
+    ],
+    [
+     "وضعت الطيور أمامه سمكا كثيرا وبيضا من كل نوع، ثم ذهبت.",
+     "The birds put a lot of fish and eggs of every kind in front of him, then left."
+    ],
+    [
+     "ومنذ ذلك اليوم عرف الرجل أن الخير لا يضيع أبدا.",
+     "And since that day the man knew that kindness is never lost."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ماذا سمع الجد قرب الشاطئ؟",
+     "en": "What did the old man hear near the shore?",
+     "type": "mc",
+     "options": [
+      "صوت رجل",
+      "صوت عاصفة",
+      "صوتا غير قوي",
+      "صوت الماء"
+     ],
+     "answer": 2,
+     "words": [
+      "سمع",
+      "شاطئ"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "أنقذ الجد طائرا صغيرا.",
+     "en": "The old man saved a small bird.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "أنقذ"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "ماذا حدث في الشتاء؟",
+     "en": "What happened in the winter?",
+     "type": "mc",
+     "options": [
+      "مات الطائر",
+      "ترك الجد القرية",
+      "سافر الرجل إلى بلد آخر",
+      "كسرت عاصفة قارب الرجل"
+     ],
+     "answer": 3,
+     "words": [
+      "عاصفة",
+      "كسر"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "نسي الطائر الجد بعد أن خرج إلى السماء.",
+     "en": "The bird forgot the old man after it went out to the sky.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "طائر"
+     ],
+     "sentence": 9
+    },
+    {
+     "q": "ماذا وضعت الطيور أمام الجد؟",
+     "en": "What did the birds put in front of the old man?",
+     "type": "mc",
+     "options": [
+      "سمكا وبيضا",
+      "قاربا جديدا",
+      "حبلا طويلا",
+      "ثيابا"
+     ],
+     "answer": 0,
+     "words": [
+      "بيض",
+      "سمك"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0079",
+   "lv": "B1",
+   "title": "من المكتب إلى الحقل",
+   "oop": {
+    "طلال": "name"
+   },
+   "names": [
+    "طلال"
+   ],
+   "sentences": [
+    [
+     "كان طلال يعمل موظفا في شركة كبيرة، وراتبه جيد جدا.",
+     "Talal used to work as an employee in a big company, and his salary was very good."
+    ],
+    [
+     "لكنه كان يشعر أن حياته كلها ملف وجدول ومكالمات كثيرة.",
+     "But he felt that his whole life was a file, a schedule and many calls."
+    ],
+    [
+     "وفي أحد الأيام أخذ إجازة ثلاثة أسابيع وذهب إلى قرية جده.",
+     "One day he took three weeks of leave and went to his grandfather's village."
+    ],
+    [
+     "هناك رأى الحقول الخضراء والدجاج في الساحات، وسمع الطيور في الصباح.",
+     "There he saw the green fields and the chickens in the yards, and heard the birds in the morning."
+    ],
+    [
+     "ساعد أقاربه في العمل، وتعلم كيف يجمع البيض من الدجاج كل صباح.",
+     "He helped his relatives with the work and learned how to collect eggs from the chickens every morning."
+    ],
+    [
+     "كان العمل صعبا، لكنه نام كل ليلة نوما عميقا لم يعرفه منذ سنوات.",
+     "The work was hard, but every night he slept a deep sleep he had not known for years."
+    ],
+    [
+     "عندما عاد إلى المدينة لم يستطع أن ينسى ذلك الهدوء.",
+     "When he returned to the city he could not forget that quiet."
+    ],
+    [
+     "بعد ستة أشهر ترك الشركة، وقال له أصدقاؤه: هل أنت مجنون؟",
+     "After six months he left the company, and his friends said to him: Are you crazy?"
+    ],
+    [
+     "لكنه كان واثقا من قراره، فاشترى حقلا صغيرا قرب القرية.",
+     "But he was confident of his decision, so he bought a small field near the village."
+    ],
+    [
+     "الآن يبيع طلال الفاكهة والبيض والعسل في السوق كل يوم جمعة.",
+     "Now Talal sells fruit, eggs and honey in the market every Friday."
+    ],
+    [
+     "دخله أقل من قبل، لكنه يقول إنه لم يكن سعيدا مثل اليوم.",
+     "His income is lower than before, but he says he was never as happy as today."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ماذا كان عمل طلال في الأول؟",
+     "en": "What was Talal's job at first?",
+     "type": "mc",
+     "options": [
+      "طبيب في مستشفى كبير",
+      "موظف في شركة",
+      "سائق",
+      "معلم"
+     ],
+     "answer": 1,
+     "words": [
+      "شركة",
+      "موظف"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "ذهب طلال إلى قرية جده في إجازة.",
+     "en": "Talal went to his grandfather's village on leave.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "إجازة",
+      "جد"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "ماذا تعلم طلال في القرية؟",
+     "en": "What did Talal learn in the village?",
+     "type": "mc",
+     "options": [
+      "كيف يعمل في البنك",
+      "كيف يبني بيتا",
+      "كيف يأخذ البيض من الدجاج",
+      "كيف يصنع حبلا"
+     ],
+     "answer": 2,
+     "words": [
+      "بيض",
+      "دجاج"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "قال أصدقاؤه إن قراره جيد.",
+     "en": "His friends said his decision was good.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "مجنون",
+      "صديق"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "ماذا يبيع طلال في السوق؟",
+     "en": "What does Talal sell in the market?",
+     "type": "mc",
+     "options": [
+      "السيارات القديمة والجديدة",
+      "الكتب",
+      "الثياب",
+      "العسل والبيض والفاكهة"
+     ],
+     "answer": 3,
+     "words": [
+      "بيض",
+      "عسل"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0080",
+   "lv": "B1",
+   "title": "نصائح لمن يسافر وحده",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "السفر وحدك تجربة جميلة، لكنه يحتاج إلى بعض الاستعداد.",
+     "Travelling alone is a beautiful experience, but it needs some preparation."
+    ],
+    [
+     "أولا، احجز غرفة الفندق قبل أن تصل، وأرسل العنوان إلى أحد أهلك.",
+     "First, book the hotel room before you arrive, and send the address to one of your family."
+    ],
+    [
+     "ثانيا، ضع صورة من هويتك ومن تذكرة الطيران في ملف في هاتفك.",
+     "Second, put a copy of your ID and your plane ticket in a file on your phone."
+    ],
+    [
+     "فإذا ضاعت الأوراق، تستطيع أن تجد النسخة بسرعة.",
+     "If the papers are lost, you can find the copy quickly."
+    ],
+    [
+     "ثالثا، لا تعتمد على ذاكرة الهاتف فقط، فاحمل معك خريطة صغيرة على الورق.",
+     "Third, do not rely on the phone's memory only, and carry a small map on paper with you."
+    ],
+    [
+     "رابعا، تعلم بعض الكلمات من لغة البلد، مثل التحية وكلمة شكرا.",
+     "Fourth, learn some words of the country's language, such as the greeting and the word thank you."
+    ],
+    [
+     "الناس يحبون من يحاول أن يتكلم بلغتهم، حتى لو أخطأ.",
+     "People like someone who tries to speak their language, even if he makes mistakes."
+    ],
+    [
+     "خامسا، اسأل عن أسعار سيارات الأجرة قبل أن تركب.",
+     "Fifth, ask about taxi prices before you get in."
+    ],
+    [
+     "وأخيرا، كن حذرا، لكن لا تخف من الحديث مع الناس.",
+     "And finally, be careful, but do not be afraid to talk with people."
+    ],
+    [
+     "كثير ممن سافروا يقولون إن أجمل لحظات رحلتهم جاءت من لقاء جاء فجأة.",
+     "Many who have travelled say that the nicest moments of their trip came from a meeting that came suddenly."
+    ],
+    [
+     "يكفي أن تكون لطيفا وأن تفتح قلبك، وسترى أن العالم أصغر مما تظن.",
+     "It is enough to be kind and open your heart, and you will see that the world is smaller than you think."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "ماذا تفعل بصورة الهوية والتذكرة؟",
+     "en": "What should you do with the copy of your ID and ticket?",
+     "type": "mc",
+     "options": [
+      "تضعها في ملف في الهاتف",
+      "تتركها في غرفة الفندق وحدها",
+      "ترسلها بالبريد",
+      "تعطيها لصديق"
+     ],
+     "answer": 0,
+     "words": [
+      "هوية",
+      "تذكرة",
+      "ملف"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "يقول النص إن الهاتف يكفي ولا تحتاج إلى خريطة.",
+     "en": "The text says the phone is enough and you do not need a map.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "خريطة",
+      "ذاكرة"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "لماذا يجب أن تتعلم كلمات من لغة البلد؟",
+     "en": "Why should you learn words from the country's language?",
+     "type": "mc",
+     "options": [
+      "هي أسهل لغة",
+      "الناس يرحبون بمن يحاول",
+      "حتى لا تحتاج إلى الهاتف",
+      "لتجد عملا"
+     ],
+     "answer": 1,
+     "words": [
+      "لغة",
+      "حاول"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "يقول النص إن عليك أن تسأل عن الأجرة قبل أن تركب.",
+     "en": "The text says you should ask about the fare before getting in.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "أجرة",
+      "ركب"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "ماذا يقول كثير ممن سافروا عن أجمل لحظات الرحلة؟",
+     "en": "What do many who have travelled say about the nicest moments of the trip?",
+     "type": "mc",
+     "options": [
+      "كانت في الفندق",
+      "كانت في الطائرة قبل الوصول",
+      "جاءت من لقاء فجأة",
+      "جاءت من الأكل"
+     ],
+     "answer": 2,
+     "words": [
+      "لقاء",
+      "لحظة"
+     ],
+     "sentence": 9
+    }
+   ]
   }
  ]
 }

@@ -10,8 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 60-68 (median 64.0); ws_words 61-68; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 44
-- **A2**: 20 passages; words/passage 91-106 (median 98.5); ws_words 91-106; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 42, tf 44
-- **B1**: 20 passages; words/passage 111-148 (median 131.0); ws_words 111-148; coverage min 1.000, median 1.000 (rule >= 0.93); linked min 1.000; questions mc 44, tf 41
+- **A2**: 30 passages; words/passage 91-109 (median 99.0); ws_words 91-109; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 71, tf 65
+- **B1**: 30 passages; words/passage 111-148 (median 128.0); ws_words 111-148; coverage min 1.000, median 1.000 (rule >= 0.93); linked min 1.000; questions mc 74, tf 61
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -75,6 +75,26 @@ tokens of the passage text, the count the app shows (report only).
 | p0058 | B1 | المدينة أم القرية؟ | 111 | 111 | 1.000 | 1.000 | - | - |
 | p0059 | B1 | قصة القهوة | 129 | 130 | 1.000 | 1.000 | - | - |
 | p0060 | B1 | يوم لتنظيف الشاطئ | 139 | 140 | 1.000 | 1.000 | - | - |
+| p0061 | A2 | يوميات رنا | 108 | 108 | 1.000 | 1.000 | - | - |
+| p0062 | A2 | في البنك | 96 | 96 | 1.000 | 1.000 | - | B1: ضاع, مليء |
+| p0063 | A2 | رحلة إلى الجزيرة | 109 | 109 | 1.000 | 1.000 | - | B1: ميناء |
+| p0064 | A2 | إعلان من النادي | 97 | 98 | 1.000 | 1.000 | - | B1: مجاني |
+| p0065 | A2 | مع جدتي في السوق | 101 | 101 | 1.000 | 1.000 | - | B1: حلوى, سكر, غنى |
+| p0066 | A2 | حادث صغير | 99 | 99 | 1.000 | 1.000 | - | B1: سائق, ضرر |
+| p0067 | A2 | رسالة إلكترونية | 99 | 99 | 1.000 | 1.000 | - | B1: زار |
+| p0068 | A2 | فيلم الأمس | 103 | 103 | 1.000 | 1.000 | - | B1: مشهور, هادئ |
+| p0069 | A2 | الغابة في الصباح | 93 | 93 | 1.000 | 1.000 | - | B1: شاطئ, هادئ |
+| p0070 | A2 | مقابلة مع فنان | 98 | 98 | 1.000 | 1.000 | - | B1: سافر, فنان, نصيحة |
+| p0071 | B1 | المتحف الجديد | 132 | 132 | 1.000 | 1.000 | - | - |
+| p0072 | B1 | سباق الدراجات | 128 | 129 | 1.000 | 1.000 | - | - |
+| p0073 | B1 | مع سائق الأجرة | 129 | 129 | 1.000 | 1.000 | - | - |
+| p0074 | B1 | زفاف أختي | 118 | 118 | 1.000 | 1.000 | - | - |
+| p0075 | B1 | يوم بلا شاشات | 118 | 118 | 1.000 | 1.000 | - | - |
+| p0076 | B1 | زيارة المصنع | 118 | 118 | 1.000 | 1.000 | - | - |
+| p0077 | B1 | ملاحظة إلى الجيران | 116 | 116 | 1.000 | 1.000 | - | - |
+| p0078 | B1 | الجد وطائر البحيرة | 141 | 141 | 1.000 | 1.000 | - | - |
+| p0079 | B1 | من المكتب إلى الحقل | 121 | 121 | 1.000 | 1.000 | - | - |
+| p0080 | B1 | نصائح لمن يسافر وحده | 120 | 120 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
@@ -85,6 +105,8 @@ the budget rule above is unchanged):
 - p0011: title 'الجمعه': out of pack
 - p0030: title 'ممطر': out of pack
 - p0045: title 'شكوي': out of pack
+- p0061: title 'يوميات': out of pack
+- p0070: title 'فنان': فنان B1
 
 <!-- manual section: kept across runs -->
 ## Manual QA (2026-09-26, author self-check; no external QA round yet)
