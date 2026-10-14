@@ -10,8 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 60-68 (median 64.0); ws_words 61-68; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 44
-- **A2**: 30 passages; words/passage 91-109 (median 99.0); ws_words 91-109; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 71, tf 65
-- **B1**: 30 passages; words/passage 111-148 (median 128.5); ws_words 111-148; coverage min 1.000, median 1.000 (rule >= 0.93); linked min 1.000; questions mc 74, tf 61
+- **A2**: 30 passages; words/passage 91-109 (median 99.0); ws_words 91-109; coverage min 0.989, median 1.000 (rule >= 0.95); linked min 0.989; questions mc 71, tf 65
+- **B1**: 30 passages; words/passage 111-148 (median 128.5); ws_words 111-148; coverage min 0.991, median 1.000 (rule >= 0.93); linked min 0.991; questions mc 74, tf 61
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -42,7 +42,7 @@ tokens of the passage text, the count the app shows (report only).
 | p0025 | A2 | زواج أخي | 97 | 97 | 1.000 | 1.000 | - | - |
 | p0026 | A2 | نبحث عن شقة | 98 | 98 | 1.000 | 1.000 | - | - |
 | p0027 | A2 | رسالة من كندا | 95 | 95 | 1.000 | 1.000 | - | - |
-| p0028 | A2 | في السوق القديم | 95 | 96 | 1.000 | 1.000 | - | - |
+| p0028 | A2 | في السوق القديم | 95 | 96 | 0.989 | 0.989 | ذهب x1 (gold (noun): no pack word, the pack verb is "go") | - |
 | p0029 | A2 | أتعلم الطعام | 102 | 102 | 1.000 | 1.000 | - | - |
 | p0030 | A2 | يوم ممطر | 101 | 101 | 1.000 | 1.000 | - | - |
 | p0031 | A2 | بيت الكتب | 91 | 93 | 1.000 | 1.000 | - | - |
@@ -51,13 +51,13 @@ tokens of the passage text, the count the app shows (report only).
 | p0034 | A2 | في المطار | 96 | 96 | 1.000 | 1.000 | - | - |
 | p0035 | A2 | حديقة الحيوان | 99 | 99 | 1.000 | 1.000 | - | B1: كبر |
 | p0036 | A2 | أول يوم في الجامعة | 92 | 93 | 1.000 | 1.000 | - | B1: طب |
-| p0037 | A2 | هدية لأمي | 91 | 91 | 1.000 | 1.000 | - | B1: زهر |
+| p0037 | A2 | هدية لأمي | 91 | 91 | 0.989 | 0.989 | احسن x1 (best (adjective): no pack word, the pack verb is "do well") | B1: زهر |
 | p0038 | A2 | الحقيبة | 105 | 105 | 1.000 | 1.000 | - | B1: حاسوب |
 | p0039 | A2 | الهاتف في حياتنا | 102 | 102 | 1.000 | 1.000 | - | - |
-| p0040 | A2 | حياة جدتي | 104 | 104 | 1.000 | 1.000 | - | - |
+| p0040 | A2 | حياة جدتي | 104 | 104 | 0.990 | 0.990 | احسن x1 (best (adjective): no pack word, the pack verb is "do well") | - |
 | p0041 | B1 | عطلة على الشاطئ | 141 | 141 | 1.000 | 1.000 | - | - |
 | p0042 | B1 | العمل من البيت | 138 | 138 | 1.000 | 1.000 | - | - |
-| p0043 | B1 | مهرجان الكتاب | 136 | 136 | 1.000 | 1.000 | - | - |
+| p0043 | B1 | مهرجان الكتاب | 136 | 136 | 0.992 | 0.992 | دار x1 (house (publishing house): no pack word, the pack verb is "turn") | - |
 | p0044 | B1 | مشكلة الماء | 125 | 125 | 1.000 | 1.000 | - | - |
 | p0045 | B1 | رسالة شكوى | 120 | 120 | 1.000 | 1.000 | - | - |
 | p0046 | B1 | قصة نجاح | 148 | 148 | 1.000 | 1.000 | - | - |
@@ -66,7 +66,7 @@ tokens of the passage text, the count the app shows (report only).
 | p0049 | B1 | جاري الجديد | 127 | 127 | 1.000 | 1.000 | - | - |
 | p0050 | B1 | التعلم على الإنترنت | 137 | 137 | 1.000 | 1.000 | - | - |
 | p0051 | B1 | العيد في بيتنا | 138 | 138 | 1.000 | 1.000 | - | - |
-| p0052 | B1 | مقابلة مع لاعب | 116 | 116 | 1.000 | 1.000 | - | - |
+| p0052 | B1 | مقابلة مع لاعب | 116 | 116 | 0.991 | 0.991 | ساق x1 (leg (noun): no pack word, the pack verb is "drive") | - |
 | p0053 | B1 | حريق في السوق | 135 | 135 | 1.000 | 1.000 | - | - |
 | p0054 | B1 | السيارة الكهربائية | 124 | 124 | 1.000 | 1.000 | - | - |
 | p0055 | B1 | ليلة في الصحراء | 125 | 125 | 1.000 | 1.000 | - | - |
@@ -93,7 +93,7 @@ tokens of the passage text, the count the app shows (report only).
 | p0076 | B1 | زيارة المصنع | 120 | 120 | 1.000 | 1.000 | - | - |
 | p0077 | B1 | ملاحظة إلى الجيران | 116 | 116 | 1.000 | 1.000 | - | - |
 | p0078 | B1 | الجد وطائر البحيرة | 141 | 141 | 1.000 | 1.000 | - | - |
-| p0079 | B1 | من المكتب إلى الحقل | 121 | 121 | 1.000 | 1.000 | - | - |
+| p0079 | B1 | من المكتب إلى الحقل | 121 | 121 | 0.991 | 0.991 | راتب x1 (salary (noun): no pack word since the id-merge drop of w2000 (round H)) | - |
 | p0080 | B1 | نصائح لمن يسافر وحده | 121 | 121 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
