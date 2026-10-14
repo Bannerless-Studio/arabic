@@ -5,7 +5,7 @@ vocabulary trainer for Modern Standard Arabic (MSA), built on the shared
 [`vocab-engine`](https://github.com/Bannerless-Studio/vocab-engine). It teaches
 2000 words spanning A1-B1, each with a short English gloss and a
 romanisation. Every word has at least two example sentences with English
-translations. The Read tab adds 60 short reading passages with comprehension
+translations. The Read tab adds 80 short reading passages with comprehension
 questions.
 
 **Scope note:** this app is a vocabulary base for B1. An exam also needs
@@ -23,7 +23,7 @@ grammar, writing and speaking practice, which this app does not teach.
 - **Words** is a searchable browser with per-set drills; **Test** has a
   placement test plus free tests; **Progress** shows stats and lets you
   export, import or reset your progress.
-- **Read tab passages.** 60 short MSA reading texts (20 each at A1, A2, B1),
+- **Read tab passages.** 80 short MSA reading texts (20 at A1, 30 each at A2 and B1),
   4-5 comprehension questions each. A passage's spaced re-read (after 7
   days) becomes a listening pass when every sentence has audio: the text
   stays hidden and about half the questions are audio-only.

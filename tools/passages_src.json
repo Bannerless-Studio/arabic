@@ -7313,8 +7313,8 @@
      "She has worked here for five years and knows everything about the job."
     ],
     [
-     "الثلاثاء: جاء القطار بعد الوقت بنصف ساعة، فوصلت إلى المكتب متأخرة.",
-     "Tuesday: The train came half an hour late, so I got to the office late."
+     "الثلاثاء: تأخر القطار نصف ساعة، فوصلت إلى المكتب متأخرة.",
+     "Tuesday: The train was half an hour late, so I got to the office late."
     ],
     [
      "لم يقل المدير شيئا سيئا، لكنه قال: الوقت مهم هنا.",
@@ -7737,14 +7737,14 @@
    ],
    "questions": [
     {
-     "q": "في أي وقت من الأسبوع يبدأ الموسم الجديد؟",
-     "en": "At what point in the week does the new season start?",
+     "q": "في أي يوم يبدأ الموسم الجديد؟",
+     "en": "On which day does the new season start?",
      "type": "mc",
      "options": [
-      "في بداية الأسبوع",
-      "في آخر الأسبوع",
-      "في نهاية الشهر",
-      "في وسط الأسبوع"
+      "الأحد",
+      "السبت",
+      "الخميس",
+      "الثلاثاء"
      ],
      "answer": 1,
      "words": [
@@ -8153,16 +8153,16 @@
      "sentence": 2
     },
     {
-     "q": "تريد سلمى أن تسجل في مادة الترجمة.",
-     "en": "Salma wants to register for the translation subject.",
+     "q": "تحب سلمى الكتب وتريد أن تتعلم الترجمة.",
+     "en": "Salma loves books and wants to learn translation.",
      "type": "tf",
      "options": null,
      "answer": true,
      "words": [
       "ترجمة",
-      "مادة"
+      "كتاب"
      ],
-     "sentence": 2
+     "sentence": 4
     },
     {
      "q": "ماذا تسأل سلمى في أول سؤال؟",
@@ -8192,27 +8192,27 @@
      "sentence": 8
     },
     {
-     "q": "ماذا تريد سلمى في نهاية الرسالة؟",
-     "en": "What does Salma want at the end of the message?",
+     "q": "ماذا تطلب سلمى من المركز في نهاية الرسالة؟",
+     "en": "What does Salma ask of the centre at the end of the message?",
      "type": "mc",
      "options": [
-      "أن تكتب إلى المدير",
-      "أن تتصل بالمدير",
-      "أن تكتب رسالة أخرى",
-      "أن تذهب إلى المركز"
+      "أن يعطيها المدير شهادة الآن",
+      "أن يسجل لها اسمها في الجامعة",
+      "أن يرسل لها الكتب بلا مال",
+      "إجابة سريعة"
      ],
      "answer": 3,
      "words": [
-      "مركز"
+      "إجابة"
      ],
-     "sentence": 11
+     "sentence": 10
     }
    ]
   },
   {
    "id": "p0068",
    "lv": "A2",
-   "title": "فيلم الأمس",
+   "title": "المسلسل الجديد",
    "oop": {
     "طارق": "name",
     "ريم": "name"
@@ -8255,8 +8255,8 @@
      "Reem said: It has sad moments, but the hero succeeds in the end."
     ],
     [
-     "قال طارق: وهل المشاهد طويلة؟",
-     "Tariq said: And are the scenes long?"
+     "قال طارق: وهل الحلقات طويلة؟",
+     "Tariq said: And are the episodes long?"
     ],
     [
      "قالت ريم: لا، كل حلقة تستمر أربعين دقيقة فقط.",
@@ -8397,12 +8397,12 @@
      "So you must be quiet, and not speak in a loud voice."
     ],
     [
-     "وعندما يأتي الظهر، تعود الحيوانات إلى الغابة.",
-     "And when noon comes, the animals go back to the forest."
+     "وعندما يأتي الظهر، تعود الحيوانات إلى أماكنها.",
+     "And when noon comes, the animals go back to their places."
     ],
     [
-     "هذه أحسن ساعة في الغابة، وأنا أذهب إليها كل أسبوع.",
-     "This is the best hour in the forest, and I go to it every week."
+     "هذه أجمل ساعة في الغابة، وأنا أذهب إليها كل أسبوع.",
+     "This is the most beautiful hour in the forest, and I go to it every week."
     ]
    ],
    "questions": [
@@ -8452,14 +8452,14 @@
      "sentence": 4
     },
     {
-     "q": "الحيوانات في الغابة خائفة من الناس.",
-     "en": "The animals in the forest are afraid of people.",
+     "q": "تهرب الحيوانات في الغابة عندما تسمع صوتا.",
+     "en": "The animals in the forest run away when they hear a sound.",
      "type": "tf",
      "options": null,
      "answer": true,
      "words": [
-      "خائف",
-      "هرب"
+      "هرب",
+      "صوت"
      ],
      "sentence": 7
     },
@@ -8787,8 +8787,8 @@
      "On the day of the race I woke up at five, and I could not eat anything because I was worried."
     ],
     [
-     "كان في الملعب عدد كبير من الناس، وكان الجو باردا.",
-     "There was a large number of people in the stadium, and the weather was cold."
+     "كان على شاطئ البحيرة عدد كبير من الناس، وكان الجو باردا.",
+     "There was a large number of people on the lakeshore, and the weather was cold."
     ],
     [
      "بدأ السباق، وبعد نصف الطريق شعرت أن رجلي ضعيفتان.",
@@ -8841,10 +8841,10 @@
      "en": "Why didn't the writer eat on the morning of the race?",
      "type": "mc",
      "options": [
-      "لم يكن جائعا",
-      "لأنه كان خائفا من السباق",
-      "نام متأخرا",
-      "لم يجد طعاما"
+      "لأنه لم يكن جائعا",
+      "لأنه كان قلقا",
+      "لأنه نام متأخرا",
+      "لأنه لم يجد طعاما"
      ],
      "answer": 1,
      "words": [
@@ -8918,7 +8918,7 @@
     ],
     [
      "وسألناه عن الأجرة، فقال: السعر ثابت، ولا أطلب مالا أكثر منه.",
-     "We asked him about the fare, and he said: The price is fixed, and I do not ask for more money than it."
+     "We asked him about the fare, and he said: The price is fixed, and I do not ask for more money than that."
     ],
     [
      "قال إنه يعرف كل زاوية في المدينة، ولا يحتاج إلى خريطة.",
@@ -8976,10 +8976,10 @@
      "en": "Why does Nasser not ask for more money than the fare?",
      "type": "mc",
      "options": [
-      "لأن السعر معروف ولا يتغير",
-      "الناس فقراء",
-      "يخاف من الشرطة",
-      "لا يحب المال"
+      "لأن السعر ثابت ومعروف",
+      "لأن الناس فقراء",
+      "لأنه يخاف من الشرطة",
+      "لأنه لا يحب المال"
      ],
      "answer": 0,
      "words": [
@@ -8993,10 +8993,10 @@
      "en": "What did the man forget in the car?",
      "type": "mc",
      "options": [
-      "هاتفه",
-      "حقيبة صغيرة",
+      "هاتفا",
+      "حقيبة",
       "ملفا",
-      "مفتاحه"
+      "مفتاحا"
      ],
      "answer": 1,
      "words": [
@@ -9033,12 +9033,12 @@
    ],
    "sentences": [
     [
-     "أمس كان يوم زفاف أختي لينا، وكان يوما لا أنساه.",
-     "Yesterday was my sister Lina's wedding day, and it was a day I will not forget."
+     "أمس كان يوم زفاف أختي لينا، ولن أنساه أبدا.",
+     "Yesterday was my sister Lina's wedding day, and I will never forget it."
     ],
     [
-     "استيقظنا في الصباح، وكان البيت مليئا بالأقارب والأصدقاء.",
-     "We woke up in the morning, and the house was full of relatives and friends."
+     "استيقظنا في الصباح، وكان البيت مليئا بالأهل والأصدقاء.",
+     "We woke up in the morning, and the house was full of family and friends."
     ],
     [
      "لبست لينا ثوبا أبيض طويلا اشترته أمي من محل في وسط المدينة.",
@@ -9057,7 +9057,7 @@
      "The weather was pleasant, and the moon was big above the water."
     ],
     [
-     "وضع زوجها سامر الخاتم في إصبعها، وعم الصمت المكان لحظة.",
+     "وضع زوجها سامر الخاتم في إصبعها، وبقي المكان في صمت لحظة.",
      "Her husband Samer put the ring on her finger, and silence filled the place for a moment."
     ],
     [
@@ -9089,7 +9089,7 @@
      "options": [
       "في فندق كبير",
       "في بيت الأهل",
-      "في مكان قرب الماء",
+      "في حديقة قرب النهر",
       "في قاعة المدينة"
      ],
      "answer": 2,
@@ -9191,16 +9191,16 @@
      "After lunch my father sat with us and told us an old story from his early life."
     ],
     [
-     "لم أكن أعرف أنه يتذكر كل هذه التفاصيل، فهو يتذكر أشياء كثيرة نسيتها أنا.",
-     "I did not know he remembered all these details, for he remembers many things that I forgot."
+     "لم أكن أعرف أنه يتذكر كل هذه التفاصيل، بل إنه يتذكر أشياء كثيرة نسيتها أنا.",
+     "I did not know he remembered all these details, indeed he remembers many things that I forgot."
     ],
     [
      "وبعدها دار بيننا نقاش طويل عن الحياة قبل الإنترنت.",
      "And after that a long discussion went on between us about life before the internet."
     ],
     [
-     "وفي المساء ذهبت الكهرباء ساعة كاملة، فجلسنا في الظلام نتكلم.",
-     "In the evening the electricity went out for a whole hour, so we sat in the dark talking."
+     "وفي المساء لم تكن هناك كهرباء ساعة كاملة، فجلسنا في الظلام نتكلم.",
+     "In the evening there was no electricity for a whole hour, so we sat in the dark talking."
     ],
     [
      "كان الجو باردا، فلبسنا ثيابا ثقيلة وشربنا شايا ساخنا.",
@@ -9263,8 +9263,8 @@
      "sentence": 5
     },
     {
-     "q": "ذهبت الكهرباء في المساء.",
-     "en": "The electricity went out in the evening.",
+     "q": "كان البيت بلا كهرباء في المساء.",
+     "en": "The house was without electricity in the evening.",
      "type": "tf",
      "options": null,
      "answer": true,
@@ -9317,8 +9317,8 @@
      "After that we entered a long hall, two hundred metres long, with huge machines."
     ],
     [
-     "الصوت هناك عال جدا، فلبسنا جميعا أغطية للأذن.",
-     "The sound there is very loud, so we all wore ear covers."
+     "الصوت هناك عال جدا، فلبسنا جميعا أغطية خاصة على رؤوسنا.",
+     "The sound there is very loud, so we all wore special covers on our heads."
     ],
     [
      "رأينا كيف تصنع الآلات الأبواب والمحركات، وكيف يراقب العمال العمل.",
@@ -9334,7 +9334,7 @@
     ],
     [
      "في النهاية أخذنا هدية صغيرة، وهي سيارة من الورق صنعتها آلة المصنع نفسها.",
-     "At the end we got a small gift, a paper car made by one of the factory's own machines."
+     "At the end we got a small gift, a paper car made by the factory's machine itself."
     ],
     [
      "كتب كل طالب تقريرا عن الزيارة في اليوم التالي.",
@@ -9376,8 +9376,8 @@
      "sentence": 3
     },
     {
-     "q": "لماذا لبس الطلاب أغطية للأذن؟",
-     "en": "Why did the students wear ear covers?",
+     "q": "لماذا لبس الطلاب أغطية خاصة؟",
+     "en": "Why did the students wear special covers?",
      "type": "mc",
      "options": [
       "الجو بارد",
@@ -9434,8 +9434,8 @@
      "To the residents of the third and fourth floors,"
     ],
     [
-     "نحن العائلة التي تسكن في الطابق الثاني، وأكتب إليكم هذه الملاحظة بكل احترام.",
-     "We are the family living on the second floor, and I am writing you this note with all respect."
+     "نحن العائلة التي تسكن في الطابق الثاني، ونكتب إليكم هذه الملاحظة بكل احترام.",
+     "We are the family living on the second floor, and we are writing you this note with all respect."
     ],
     [
      "في الأسبوع الماضي كانت هناك فوضى عند الباب، لأن الأحذية والدراجات كانت في كل مكان.",
@@ -9562,12 +9562,12 @@
    ],
    "sentences": [
     [
-     "كان يعيش في قرية صغيرة قرب البحيرة رجل فقير اسمه الجد فؤاد، وعمله صيد السمك.",
-     "In a small village near the lake there lived a poor man called Grandfather Fuad, whose work was fishing."
+     "كان يعيش في قرية صغيرة قرب البحيرة رجل فقير اسمه العم فؤاد، وعمله صيد السمك.",
+     "In a small village near the lake there lived a poor man called Uncle Fuad, whose work was fishing."
     ],
     [
-     "كان كل يوم يخرج قبل الفجر في قاربه القديم، ويرمي حبله في الماء.",
-     "Every day he went out before dawn in his old boat and threw his rope into the water."
+     "كان كل يوم يخرج قبل الفجر في قاربه القديم، ويرمي شبكته في الماء.",
+     "Every day he went out before dawn in his old boat and threw his net into the water."
     ],
     [
      "وفي يوم من الأيام لم يجد في الصباح سمكة واحدة، وفي المساء لم يجد شيئا أيضا.",
@@ -9616,10 +9616,10 @@
      "en": "What did the old man hear near the shore?",
      "type": "mc",
      "options": [
-      "صوت رجل",
-      "صوت عاصفة",
-      "صوتا غير قوي",
-      "صوت الماء"
+      "صوتا عاليا",
+      "صوتا غريبا",
+      "صوتا ضعيفا",
+      "صوتا حزينا"
      ],
      "answer": 2,
      "words": [
@@ -9714,7 +9714,7 @@
      "There he saw the green fields and the chickens in the yards, and heard the birds in the morning."
     ],
     [
-     "ساعد أقاربه في العمل، وتعلم كيف يجمع البيض من الدجاج كل صباح.",
+     "ساعد أهله في العمل، وتعلم كيف يجمع البيض من الدجاج كل صباح.",
      "He helped his relatives with the work and learned how to collect eggs from the chickens every morning."
     ],
     [
@@ -9860,7 +9860,7 @@
      "Fifth, ask about taxi prices before you get in."
     ],
     [
-     "وأخيرا، كن حذرا، لكن لا تخف من الحديث مع الناس.",
+     "وأخيرا، كن حذرا، لكن لا تكن خائفا من الحديث مع الناس.",
      "And finally, be careful, but do not be afraid to talk with people."
     ],
     [
