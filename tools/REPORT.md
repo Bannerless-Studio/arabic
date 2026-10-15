@@ -35,22 +35,22 @@ Candidate pool: 6,852 (lemma, POS) keys in blended-rank order, one POS per lemma
 | profanity (hand list) | 2 | لعنة, عاهرة |
 
 Forced A1 items (weekdays, Gregorian months, seasons, numbers 0-20 + tens + مئة/ألف, colours, greetings, pronouns and demonstratives, question words, core prepositions/conjunctions/particles, A1 core list): 313/313 included.
-Word ids reused from v1 for unchanged (lemma, pos): 1,998; the rest are new ids above w2000 (v1 ids of words whose POS/lemma was wrong are retired, not reassigned).
+Word ids reused from v1 for unchanged (lemma, pos): 2,000; the rest are new ids above w2000 (v1 ids of words whose POS/lemma was wrong are retired, not reassigned).
 
 Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1044, 'verb': 386, 'adj': 331, 'adv': 77, 'prep': 50, 'num': 30, 'conj': 28, 'intj': 18, 'pron': 17, 'part': 14, 'det': 5}.
 
 ## Sentences
 
-- Final sentences: **3,023**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
-- Sentence ids (`tools/sentence_ids_v1.json`): 3,006 kept, 17 new (s3033, s3034, s3035, s3036, s3037, s3038, s3039, s3040, s3041, s3042, s3043, s3044, s3045, s3046, s3047, s3048, s3049), 26 retired.
+- Final sentences: **3,043**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Sentence ids (`tools/sentence_ids_v1.json`): 3,043 kept, 0 new, 30 retired.
 - Word coverage: 0 = 0, 1 = 1, 2 = 1999.
-- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 26,086. Rejected for a content lemma outside pack/top-3000: 10,264.
-- Primary word level of each sentence: {'B1': 1220, 'A1': 697, 'A2': 1106}.
+- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 26,105. Rejected for a content lemma outside pack/top-3000: 10,326.
+- Primary word level of each sentence: {'B1': 1217, 'A1': 718, 'A2': 1108}.
 - Token-length distribution of the final set:
 
 | tokens | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| sentences | 23 | 192 | 978 | 1012 | 531 | 182 | 50 | 22 | 16 | 5 | 8 | 4 |
+| sentences | 25 | 194 | 984 | 1016 | 533 | 183 | 50 | 22 | 16 | 6 | 10 | 4 |
 
 ## Kelly CEFR cross-check (sanity only, not shipped)
 

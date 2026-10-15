@@ -60,6 +60,15 @@ the 3,024 example sentences were written for this pack** (marked `"src":
 69 words have only written sentences; these are machine-authored and not
 native-reviewed.
 
+A further 19 sentences (marked `"src": "story"`) come from African Storybook
+Arabic children's books with their English edition (10 books). Pages are
+paired with the English page, split into sentences and realigned; typographic
+quotes were made plain, a stop missing at the end of a page was added from the
+English page, a mark typed before the sentence was moved to its end, vowel
+marks were removed. Each shipped pair was hand-read (single reader, no native
+speaker); the pairs that failed are listed in `tools/bad_sentences.txt`. Up to
+four example sentences per word, the third and fourth from stories only.
+
 Sentence-to-word links are machine-generated and checked by an automated
 English-side heuristic, not by a native speaker; known residual link errors
 (mostly noun/verb homographs the English can't disambiguate, e.g. عرض, صور)
@@ -88,6 +97,7 @@ matched lemmas sit at the same level and 71.8% within one level.
 | Example sentences | [Tatoeba](https://tatoeba.org) `ara_sentences_detailed.tsv` | CC BY 2.0 FR | sentence text (contributors in `pack/attribution.json`) |
 | Sentence translations | Tatoeba `eng_sentences.tsv` + `ara-eng_links.tsv` | CC BY 2.0 FR | English translations |
 | Written sentences | `tools/generated_examples.tsv`, written for this pack | same as this repo | 285 sentences marked `"src": "gen"` |
+| Story sentences | [African Storybook](https://www.africanstorybook.org/) (African Storybook Initiative and book creators), Arabic books with their English edition | CC BY 4.0 | 19 sentences marked `"src": "story"`; books, authors, translators and illustrators in `pack/attribution.json` `story_sentences`. |
 | Font | Noto Naskh Arabic via Google Fonts | SIL OFL 1.1 | display only |
 
 ## Rebuild and publish

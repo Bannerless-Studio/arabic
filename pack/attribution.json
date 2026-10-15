@@ -142,5 +142,207 @@
     "licence": "CC-BY-SA-4.0",
     "count": 284,
     "note": "Example sentences only, for words whose corpus sentences are missing or dropped by policy; no audio."
+  },
+  "story_sentences": {
+    "source": "African Storybook Initiative, Arabic books with their English edition (Bloom Library Arabic books qualify the same way and carry their own licence entry)",
+    "licence": "CC-BY-4.0 (each book's own licence is in its entry)",
+    "url": "https://www.africanstorybook.org/",
+    "note": "Sentences are split out of the book text, Arabic and English realigned sentence by sentence; typographic quotes became plain, vowel marks (harakat) and tatweel were removed, and a page-final stop missing in the Arabic was added from the English page. Dialect-only wording was dropped.",
+    "count": 19,
+    "stories": [
+      {
+        "id": "18187",
+        "title": "!أحب أن أقرأ",
+        "english_title": "I like to read",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=18187",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=10547",
+        "source": "African Storybook",
+        "authors": [
+          "Letta Machoga"
+        ],
+        "translators": [
+          "Hanadi Traifeh"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative and Molteno Institute 2016"
+      },
+      {
+        "id": "21813",
+        "title": "القرار",
+        "english_title": "Decision",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21813",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13304",
+        "source": "African Storybook",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "Heba Tesheh"
+        ],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015"
+      },
+      {
+        "id": "21825",
+        "title": "ماذا تفعل؟",
+        "english_title": "What are you doing?",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21825",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=7292",
+        "source": "African Storybook",
+        "authors": [
+          "Nina Orange"
+        ],
+        "translators": [
+          "Heba Tesheh"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014"
+      },
+      {
+        "id": "21829",
+        "title": "نوزيبال والشعرات الثلاث",
+        "english_title": "Nozibele and the three hairs",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21829",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=1880",
+        "source": "African Storybook",
+        "authors": [
+          "Tessa Welch"
+        ],
+        "translators": [
+          "Maaouia Haj Mabrouk"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative, 2014"
+      },
+      {
+        "id": "21849",
+        "title": "لماذا لاتملك أفراس النهرشعرا",
+        "english_title": "Why Hippos have no hair",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21849",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=6160",
+        "source": "African Storybook",
+        "authors": [
+          "Basilio Gimo",
+          "David Ker"
+        ],
+        "translators": [
+          "Heba Tesheh"
+        ],
+        "illustrators": [
+          "Carol Liddiment"
+        ],
+        "copyright_holder": "Little Zebra Books 2014"
+      },
+      {
+        "id": "21853",
+        "title": "الدجاجة والدودة",
+        "english_title": "Chicken and Millipede",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21853",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9094",
+        "source": "African Storybook",
+        "authors": [
+          "Winny Asara"
+        ],
+        "translators": [
+          "Abrar Wafa"
+        ],
+        "illustrators": [
+          "Magriet Brink"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014"
+      },
+      {
+        "id": "21857",
+        "title": "تينغي و البقر",
+        "english_title": "Tingi and the cows",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21857",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=7441",
+        "source": "African Storybook",
+        "authors": [
+          "Ingrid Schechter"
+        ],
+        "translators": [
+          "Heba Tesheh"
+        ],
+        "illustrators": [
+          "Ingrid Schechter"
+        ],
+        "copyright_holder": "Mozambican Writers 2014"
+      },
+      {
+        "id": "21874",
+        "title": "توم، بائع الموز",
+        "english_title": "Tom the banana seller",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21874",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13627",
+        "source": "African Storybook",
+        "authors": [
+          "Humphreys Odunga"
+        ],
+        "translators": [
+          "Maaouia Haj Mabrouk"
+        ],
+        "illustrators": [
+          "Atilabachew Reda"
+        ],
+        "copyright_holder": "African Storybook Project 2015"
+      },
+      {
+        "id": "21880",
+        "title": "لنعد الحيوانات",
+        "english_title": "Counting animals",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21880",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9671",
+        "source": "African Storybook",
+        "authors": [
+          "Zanele Buthelezi",
+          "Thembani Dladla",
+          "Clare Verbeek"
+        ],
+        "translators": [
+          "Maaouia Haj Mabrouk"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "School of Education and Development (Ukzn) and African Storybook Initiative 2007"
+      },
+      {
+        "id": "21881",
+        "title": "أطفال الشمع",
+        "english_title": "Children of wax",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21881",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2181",
+        "source": "African Storybook",
+        "authors": [
+          "Southern African Folktale"
+        ],
+        "translators": [
+          "Abrar Wafa"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014"
+      }
+    ]
   }
 }

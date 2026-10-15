@@ -163,6 +163,13 @@
     "Noto Naskh Arabic:wght@400;700"
   ],
   "lineHeight": 1.8,
+  "credits": [
+    {
+      "name": "African Storybook stories (African Storybook Initiative, authors, translators and illustrators named in the pack's attribution)",
+      "licence": "CC BY 4.0",
+      "url": "https://www.africanstorybook.org/"
+    }
+  ],
   "script": {
     "stages": [
       {

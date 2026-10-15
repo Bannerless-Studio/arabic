@@ -15,6 +15,8 @@ this before deciding what else in `tools/` you need to open.
   pronouns/prepositions live in `langs/ar.py` instead).
 - `generated_examples.tsv` — the 285 example sentences written for this pack
   (marked `"src": "gen"` in `pack/sentences.json`); append-only.
+- `bad_sentences.txt` — story sentences dropped by the hand audit, one per
+  line (`text  # English`); the build reads it for story rows.
 - `passages_src.json` — source text for the 80 reading passages.
 - `passages_gen/` — authoring scaffolding that writes `passages_src.json`:
   `make.py` plus one module per level (`a1.py`, `a2.py`, `b1.py`).
